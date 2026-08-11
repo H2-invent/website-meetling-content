@@ -3,6 +3,7 @@ title: "Meetling auf der FrOSCon 2026: mit LiveKit in Sankt Augustin"
 description: "Meetling ist 2026 als Standaussteller und mit einem Vortrag auf der FrOSCon vertreten. Besuchen Sie uns am 15. und 16. August in Sankt Augustin."
 date: 2026-08-11
 tags: ["froscon", "messe", "vortrag", "kubernetes"]
+image: ./1000031341.png
 author: "Andreas Holzmann"
 ---
 
