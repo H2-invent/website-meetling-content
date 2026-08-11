@@ -1,0 +1,48 @@
+name: Website-Build anstoßen
+
+# Stößt nach einem Merge in main den Build der Website an.
+#
+# Voraussetzungen im Ziel-Repository (privat):
+#   - ein Workflow mit `on: repository_dispatch: types: [content-updated]`
+# Voraussetzungen in diesem Repository (Settings → Secrets and variables → Actions):
+#   - Variable TARGET_REPO              = owner/repo des Website-Repositories
+#   - Secret   CONTENT_DISPATCH_TOKEN   = Fine-grained PAT, nur auf das Ziel-Repo,
+#                                         Repository permission "Contents: Read and write"
+
+on:
+  push:
+    branches: [main]
+    paths-ignore:
+      - '.github/**'
+      - '*.md'
+  workflow_dispatch:
+
+concurrency:
+  group: dispatch-website-build
+  cancel-in-progress: true
+
+jobs:
+  dispatch:
+    runs-on: [self-hosted, linux]
+    steps:
+      - name: repository_dispatch senden
+        shell: bash
+        env:
+          TOKEN: ${{ secrets.CONTENT_DISPATCH_TOKEN }}
+          TARGET_REPO: ${{ vars.TARGET_REPO }}
+        run: |
+          set -euo pipefail
+          : "${TARGET_REPO:?Repository-Variable TARGET_REPO ist nicht gesetzt (erwartet: owner/repo)}"
+          : "${TOKEN:?Secret CONTENT_DISPATCH_TOKEN ist nicht gesetzt}"
+
+          resp=$(curl -sS -w '\n%{http_code}' -X POST \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer $TOKEN" \
+            -d "{\"event_type\":\"content-updated\",\"client_payload\":{\"sha\":\"$GITHUB_SHA\",\"run_url\":\"$GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID\"}}" \
+            "https://api.github.com/repos/$TARGET_REPO/dispatches")
+
+          if [ "${resp##*$'\n'}" != "204" ]; then
+            echo "::error::Dispatch an $TARGET_REPO fehlgeschlagen (HTTP ${resp##*$'\n'}): ${resp%$'\n'*}"
+            exit 1
+          fi
+          echo "Event 'content-updated' an $TARGET_REPO gesendet (${GITHUB_SHA:0:7})." >> "$GITHUB_STEP_SUMMARY"
