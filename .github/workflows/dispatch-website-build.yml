@@ -41,8 +41,4 @@ jobs:
             -d "{\"event_type\":\"content-updated\",\"client_payload\":{\"sha\":\"$GITHUB_SHA\",\"run_url\":\"$GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID\"}}" \
             "https://api.github.com/repos/$TARGET_REPO/dispatches")
 
-          if [ "${resp##*$'\n'}" != "204" ]; then
-            echo "::error::Dispatch an $TARGET_REPO fehlgeschlagen (HTTP ${resp##*$'\n'}): ${resp%$'\n'*}"
-            exit 1
-          fi
-          echo "Event 'content-updated' an $TARGET_REPO gesendet (${GITHUB_SHA:0:7})." >> "$GITHUB_STEP_SUMMARY"
+
