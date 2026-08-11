@@ -4,6 +4,7 @@ description: "Meetling ist 2026 als Standaussteller und mit einem Vortrag auf de
 date: 2026-08-11
 tags: ["froscon", "messe", "vortrag", "kubernetes"]
 image: ./1000031341.png
+imageAlt: "Header Bild für den Vortrag Airgapped Kubernetes auf der Froscon 2026"
 author: "Andreas Holzmann"
 ---
 
