@@ -17,7 +17,7 @@ Meetling ist dieses Jahr auf der [Free and Open Source Software Conference](http
 
 ## Worüber wir sprechen
 
-Meetling baut auf [LiveKit](/blog/livekit-vs-jitsi) als Medienserver auf – aus genau den Gründen, die wir kürzlich im Vergleich zwischen LiveKit und Jitsi Meet beschrieben haben: volle Kontrolle über Oberfläche, Rechtelogik und Schlüsselmanagement, statt eine fertige Anwendung vorgegeben zu bekommen. Am Stand und im Vortrag zeigen wir, wie das in der Praxis aussieht – von der Architektur bis zum Betrieb in abgeschotteten, hochsicheren Umgebungen ganz ohne Internetanbindung.
+Meetling baut auf [LiveKit](/blog/livekit-vs-jitsi-meet) als Medienserver auf – aus genau den Gründen, die wir kürzlich im Vergleich zwischen LiveKit und Jitsi Meet beschrieben haben: volle Kontrolle über Oberfläche, Rechtelogik und Schlüsselmanagement, statt eine fertige Anwendung vorgegeben zu bekommen. Am Stand und im Vortrag zeigen wir, wie das in der Praxis aussieht – von der Architektur bis zum Betrieb in abgeschotteten, hochsicheren Umgebungen ganz ohne Internetanbindung.
 
 Wenn Sie Fragen zu Ende-zu-Ende-Verschlüsselung, Skalierung oder zum Betrieb von Videokonferenzen in airgapped Umgebungen haben, sind Sie bei uns genau richtig.
 
