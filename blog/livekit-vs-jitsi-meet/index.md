@@ -1,7 +1,7 @@
 ---
 title: "LiveKit oder Jitsi Meet: Architektur, E2EE und Aufzeichnung im Vergleich"
 description: "LiveKit oder Jitsi Meet - der Vergleich beider Open-Source-SFUs zeigt, wo sie sich bei Architektur, Skalierung, Verschlüsselung und Betrieb unterscheiden."
-date: 2026-08-11
+date: 2026-08-09
 tags: []
 author: "meetling Team"
 image: ./livekit-vs-jitsi.png
