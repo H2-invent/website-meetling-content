@@ -23,8 +23,7 @@ concurrency:
 
 jobs:
   dispatch:
-    runs-on: [self-hosted, linux]
-    container: node:23-bullseye
+    runs-on: ubuntu-latest
     steps:
       - name: repository_dispatch senden
         shell: bash
