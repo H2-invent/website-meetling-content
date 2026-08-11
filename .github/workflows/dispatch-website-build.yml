@@ -35,10 +35,10 @@ jobs:
           : "${TARGET_REPO:?Repository-Variable TARGET_REPO ist nicht gesetzt (erwartet: owner/repo)}"
           : "${TOKEN:?Secret CONTENT_DISPATCH_TOKEN ist nicht gesetzt}"
 
-          resp=$(curl -sS -w '\n%{http_code}' -X POST \
+          curl -sS -w '\n%{http_code}' -X POST \
             -H "Accept: application/vnd.github+json" \
             -H "Authorization: Bearer $TOKEN" \
             -d "{\"event_type\":\"content-updated\",\"client_payload\":{\"sha\":\"$GITHUB_SHA\",\"run_url\":\"$GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID\"}}" \
-            "https://api.github.com/repos/$TARGET_REPO/dispatches")
+            "https://api.github.com/repos/$TARGET_REPO/dispatches"
 
 
