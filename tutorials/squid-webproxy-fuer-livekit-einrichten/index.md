@@ -1,6 +1,6 @@
 ---
 title: "Squid Webproxy für Livekit einrichten"
-description: ""
+description: "Anleitung zur Konfiguration eines Squid Webproxys für die optimale Nutzung von Coturn und Livekit mit Meetling."
 date: 2026-01-16
 tags: ["tutorial", "meetling"]
 author: "H2 invent GmbH"
