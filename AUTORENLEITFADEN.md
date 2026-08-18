@@ -25,6 +25,19 @@ Kleinbuchstaben, Bindestriche, keine Umlaute, keine Datumspräfixe. **Slugs änd
 
 Bei migrierten Tutorials gilt zusätzlich: den Pfad von `tutorial.meetling.de` als Slug übernehmen, damit die Weiterleitung 1:1 funktioniert.
 
+## Reihenfolge
+
+Übersichtsseiten zeigen die neuesten Beiträge zuerst. Für Tutorials ist das selten die richtige Reihenfolge — dort gehört der Einstieg nach oben und nicht die zuletzt überarbeitete Anleitung. Dafür gibt es `order`:
+
+```yaml
+order: 20
+```
+
+- **In Zehnerschritten nummerieren** (10, 20, 30 …). Dann lässt sich später etwas dazwischenschieben, ohne alle anderen Dateien anzufassen.
+- **Nur ganze Zahlen.** Ein Komma im Wert oder Anführungszeichen darum brechen den Build ab.
+- **Beiträge ohne `order` rutschen dahinter** und bleiben dort nach Datum sortiert, neueste zuerst. Man kann also die ersten fünf Tutorials festlegen und den Rest laufen lassen.
+- **Im Blog ist `order` normalerweise falsch.** Dort ist chronologisch richtig — sinnvoll höchstens, um einen Beitrag dauerhaft oben zu halten.
+
 ## Interne Links
 
 Jeder Beitrag sollte auf mindestens zwei Seiten der Website verweisen — im Fließtext, wo es inhaltlich passt:
@@ -58,7 +71,8 @@ Bilder liegen im selben Ordner wie der Text und werden relativ referenziert:
 ```
 
 - **Alternativtext ist Pflicht** — der Text in den eckigen Klammern. Er beschreibt, was zu sehen ist, für Menschen, die das Bild nicht sehen können. Nicht „Screenshot" und nicht der Dateiname.
-- **Das `image` im Frontmatter** ist das Aufmacherbild: Kartenbild in der Übersicht und Vorschaubild beim Teilen in sozialen Netzwerken. Querformat, mindestens 1200 Pixel breit.
+- **Das `image` im Frontmatter** ist das Aufmacherbild über dem Text. Querformat, mindestens 1200 Pixel breit.
+- **`preview` ist das Vorschaubild**: die Karte in der Übersicht und die Vorschau beim Teilen in sozialen Netzwerken. Ohne `preview` wird dafür `image` genommen — das ist der Normalfall. Ein eigenes Vorschaubild lohnt sich, wenn das Aufmacherbild dafür ungeeignet ist: ein animiertes GIF etwa zeigen soziale Netzwerke bestenfalls als erstes Standbild. Der Alternativtext `previewAlt` ist dann Pflicht.
 - **Dateigröße im Blick behalten** — die Bilder werden unverändert ausgeliefert. Unter 300 KB je Bild ist eine gute Richtschnur.
 - **Keine Personen ohne Einwilligung**, keine fremden Screenshots mit sichtbaren Daten Dritter.
 

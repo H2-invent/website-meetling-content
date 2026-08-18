@@ -40,8 +40,11 @@ Ein Beitrag ist immer ein **Ordner** mit einer `index.md`, nie eine lose Markdow
 | `date` | ja | Veröffentlichungsdatum, `JJJJ-MM-TT` |
 | `updated` | nein | Datum der letzten Überarbeitung, `JJJJ-MM-TT` |
 | `tags` | nein | Liste; der erste Tag wird als Label auf der Karte angezeigt |
-| `image` | nein | Datei im selben Ordner; Kartenbild und Social-Media-Vorschau |
+| `order` | nein | Ganzzahl; Beiträge mit `order` stehen aufsteigend vor allen anderen |
+| `image` | nein | Datei im selben Ordner; Aufmacherbild über dem Text |
 | `imageAlt` | wenn `image` gesetzt | Bildbeschreibung für Screenreader |
+| `preview` | nein | Datei im selben Ordner; Kartenbild und Social-Media-Vorschau. Ohne Angabe gilt `image` |
+| `previewAlt` | wenn `preview` gesetzt | Bildbeschreibung für Screenreader |
 | `author` | nein | „Vorname Nachname"; benannte Autoren werden empfohlen |
 | `related` | nein | Liste interner Pfade; erscheint als Empfehlungsbox unter dem Text |
 
