@@ -3,6 +3,7 @@ title: "Wie erstellt man eine Videokonferenz?"
 description: "Planen Sie Ihre Videokonferenzen stressfrei! Datum, Agenda, Dauer & mehr anpassen. Teilnehmerkontrolle und nahtlose Einwahl für effiziente Meetings."
 date: 2026-01-25
 tags: ["tutorial", "meetling"]
+order: 10
 image: ./konferenz-erstellen_1.gif
 imageAlt: "Wie erstellt man eine Videokonferenz?"
 author: "H2 invent GmbH"

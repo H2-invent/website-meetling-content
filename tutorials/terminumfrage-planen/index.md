@@ -3,6 +3,7 @@ title: "Wie plant man eine Terminumfrage?"
 description: "Auf der Hauptseite neben KONFERENZ PLANEN auf TERMINUMFRAGE klicken. Ein neues Fenster öffnet sich, in dem alle relevanten Daten für das zukünftige Videomeeting eingetragen werden"
 date: 2024-03-23
 tags: ["tutorial", "meetling"]
+order: 60
 image: ./terminumfrage.gif
 imageAlt: "Wie plant man eine Terminumfrage?"
 author: "H2 invent GmbH"

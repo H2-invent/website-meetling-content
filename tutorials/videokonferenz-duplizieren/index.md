@@ -3,6 +3,7 @@ title: "Wie dupliziert man eine Videokonferenz?"
 description: "Auf der Startseite sind alle geplanten und vergangenen Videokonferenzen sichtbar. Um eine Konferenz zu duplizieren, klickt man bei der zu duplizierenden Videokonferenz auf OPTIONEN."
 date: 2024-03-23
 tags: ["tutorial", "meetling"]
+order: 90
 image: ./konferenz-duplizieren.gif
 imageAlt: "Wie dupliziert man eine Videokonferenz?"
 author: "H2 invent GmbH"

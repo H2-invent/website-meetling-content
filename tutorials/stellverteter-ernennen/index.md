@@ -3,6 +3,7 @@ title: "Wie ernennt man einen Stellverteter?"
 description: "Im Adressbuch kann ein bestandener Kontakt über den Button \"ALS VERTRETER HINZUFÜGEN\" ernannt werden."
 date: 2024-03-27
 tags: ["tutorial", "meetling"]
+order: 270
 image: ./make_deputy_1_.gif
 imageAlt: "Wie ernennt man einen Stellverteter?"
 author: "H2 invent GmbH"

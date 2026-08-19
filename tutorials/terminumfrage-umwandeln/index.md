@@ -3,6 +3,7 @@ title: "Wie wandelt man eine Terminumfrage in eine Videokonferenz um?"
 description: "Der Organisator der Terminumfrage sieht auf seiner Startseite die Abstimmung der Teilnehmenden über TERMINPLANUNG."
 date: 2024-03-23
 tags: ["tutorial", "meetling"]
+order: 80
 image: ./terminabfrage_in_konferenz1-1.gif
 imageAlt: "Wie wandelt man eine Terminumfrage in eine Videokonferenz um?"
 author: "H2 invent GmbH"

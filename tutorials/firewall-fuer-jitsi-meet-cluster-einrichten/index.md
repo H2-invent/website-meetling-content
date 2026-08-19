@@ -3,6 +3,7 @@ title: "Firewall für Jitsi Meet Cluster einrichten"
 description: "Für eine optimale Video- und Audioqualität in der Videokonferenz empfehlen wir, die hier aufgeführten Firewalleinstellungen bei Ihnen vorzunehmen, um mit unserem Jitsi Meet Cluster zu arbeiten."
 date: 2024-10-21
 tags: ["tutorial", "meetling"]
+order: 310
 author: "H2 invent GmbH"
 ---
 

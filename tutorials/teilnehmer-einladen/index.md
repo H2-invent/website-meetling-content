@@ -3,6 +3,7 @@ title: "Wie lädt man Teilnehmer zu einer Videokonferenz ein?"
 description: "Planen Sie Videokonferenzen einfach: Klicken Sie auf \"Zukünftige Konferenzen\", dann auf \"Teilnehmende\" und versenden Sie Einladungen mit einem Klick."
 date: 2024-03-23
 tags: ["tutorial", "meetling"]
+order: 20
 image: ./teilnehmende_einladen.gif
 imageAlt: "Wie lädt man Teilnehmer zu einer Videokonferenz ein?"
 author: "H2 invent GmbH"

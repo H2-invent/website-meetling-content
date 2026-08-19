@@ -3,6 +3,7 @@ title: "Wie erstellt man eine Videokonferenz mit Selbstregistrierung?"
 description: "Auf der Startseite auf KONFERENZ PLANEN klicken und die Daten der Videokonferenz einfügen. Unter ERWEITERTE OPTIONEN das Feld LINK ZUR EINLADUNG FREISCHALTEN aktvieren."
 date: 2024-03-23
 tags: ["tutorial", "meetling"]
+order: 220
 image: ./selbstregistrierung.gif
 imageAlt: "Wie erstellt man eine Videokonferenz mit Selbstregistrierung?"
 author: "H2 invent GmbH"
