@@ -6,6 +6,8 @@ tags: ["tutorial", "meetling"]
 order: 20
 image: ./teilnehmende_einladen.gif
 imageAlt: "Wie lädt man Teilnehmer zu einer Videokonferenz ein?"
+preview: ./teilnehmende_einladen-preview.jpg
+previewAlt: "Wie lädt man Teilnehmer zu einer Videokonferenz ein?"
 author: "H2 invent GmbH"
 ---
 

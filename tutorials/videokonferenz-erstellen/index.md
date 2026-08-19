@@ -6,6 +6,8 @@ tags: ["tutorial", "meetling"]
 order: 10
 image: ./konferenz-erstellen_1.gif
 imageAlt: "Wie erstellt man eine Videokonferenz?"
+preview: ./konferenz-erstellen_1-preview.jpg
+previewAlt: "Wie erstellt man eine Videokonferenz?"
 author: "H2 invent GmbH"
 ---
 

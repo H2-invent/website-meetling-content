@@ -6,6 +6,8 @@ tags: ["tutorial", "meetling"]
 order: 130
 image: ./profilbild-und-nutzername-einstellen.gif
 imageAlt: "Wie ändert man das Profilbild und den Nutzernamen?"
+preview: ./profilbild-und-nutzername-einstellen-preview.jpg
+previewAlt: "Wie ändert man das Profilbild und den Nutzernamen?"
 author: "H2 invent GmbH"
 ---
 

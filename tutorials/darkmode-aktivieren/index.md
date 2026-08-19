@@ -6,6 +6,8 @@ tags: ["tutorial", "meetling"]
 order: 120
 image: ./darkmode-aktivieren.gif
 imageAlt: "Wie aktiviere ich den Darkmode?"
+preview: ./darkmode-aktivieren-preview.jpg
+previewAlt: "Wie aktiviere ich den Darkmode?"
 author: "H2 invent GmbH"
 ---
 

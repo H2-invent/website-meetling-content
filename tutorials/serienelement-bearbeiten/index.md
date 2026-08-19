@@ -6,6 +6,8 @@ tags: ["tutorial", "meetling"]
 order: 160
 image: ./serienelement-bearbeiten.gif
 imageAlt: "Wie bearbeitet man ein Serienelement?"
+preview: ./serienelement-bearbeiten-preview.jpg
+previewAlt: "Wie bearbeitet man ein Serienelement?"
 author: "H2 invent GmbH"
 ---
 

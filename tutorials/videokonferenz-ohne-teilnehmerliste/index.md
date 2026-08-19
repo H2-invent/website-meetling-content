@@ -6,6 +6,8 @@ tags: ["tutorial", "meetling"]
 order: 230
 image: ./selbstregistrierung-durch-teilnehmenden-link.gif
 imageAlt: "Wie erstellt man eine Videokonferenz ohne Teilnehmerliste?"
+preview: ./selbstregistrierung-durch-teilnehmenden-link-preview.jpg
+previewAlt: "Wie erstellt man eine Videokonferenz ohne Teilnehmerliste?"
 author: "H2 invent GmbH"
 ---
 

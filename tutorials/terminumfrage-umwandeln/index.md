@@ -6,6 +6,8 @@ tags: ["tutorial", "meetling"]
 order: 80
 image: ./terminabfrage_in_konferenz1-1.gif
 imageAlt: "Wie wandelt man eine Terminumfrage in eine Videokonferenz um?"
+preview: ./terminabfrage_in_konferenz1-1-preview.jpg
+previewAlt: "Wie wandelt man eine Terminumfrage in eine Videokonferenz um?"
 author: "H2 invent GmbH"
 ---
 

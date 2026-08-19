@@ -6,6 +6,8 @@ tags: ["tutorial", "meetling"]
 order: 30
 image: ./konferenz_starten_1.gif
 imageAlt: "Wie startet man eine Videokonferenz?"
+preview: ./konferenz_starten_1-preview.jpg
+previewAlt: "Wie startet man eine Videokonferenz?"
 author: "H2 invent GmbH"
 ---
 

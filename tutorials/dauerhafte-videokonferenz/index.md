@@ -6,6 +6,8 @@ tags: ["tutorial", "meetling"]
 order: 170
 image: ./dauerhafte-konferenz_1.gif
 imageAlt: "Wie stellt man eine Videokonferenz dauerhaft zur Verfügung?"
+preview: ./dauerhafte-konferenz_1-preview.jpg
+previewAlt: "Wie stellt man eine Videokonferenz dauerhaft zur Verfügung?"
 author: "H2 invent GmbH"
 ---
 

@@ -6,6 +6,8 @@ tags: ["tutorial", "meetling"]
 order: 270
 image: ./make_deputy_1_.gif
 imageAlt: "Wie ernennt man einen Stellverteter?"
+preview: ./make_deputy_1_-preview.jpg
+previewAlt: "Wie ernennt man einen Stellverteter?"
 author: "H2 invent GmbH"
 ---
 

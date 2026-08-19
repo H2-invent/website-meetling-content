@@ -6,6 +6,8 @@ tags: ["tutorial", "meetling"]
 order: 100
 image: ./teilnehmer-aus-kontakten-direkt-einladen.gif
 imageAlt: "Wie erstellt man direkt eine Videokonferenz mit einem meiner Kontakte?"
+preview: ./teilnehmer-aus-kontakten-direkt-einladen-preview.jpg
+previewAlt: "Wie erstellt man direkt eine Videokonferenz mit einem meiner Kontakte?"
 author: "H2 invent GmbH"
 ---
 

@@ -6,6 +6,8 @@ tags: ["tutorial", "meetling"]
 order: 240
 image: ./meetling_einladung_erneut_senden.gif
 imageAlt: "Wie kann ich die Einladungsemail erneut versenden?"
+preview: ./meetling_einladung_erneut_senden-preview.jpg
+previewAlt: "Wie kann ich die Einladungsemail erneut versenden?"
 author: "H2 invent GmbH"
 ---
 

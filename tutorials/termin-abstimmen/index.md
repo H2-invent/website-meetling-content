@@ -6,6 +6,8 @@ tags: ["tutorial", "meetling"]
 order: 70
 image: ./termin_abstimmen.gif
 imageAlt: "Wie stimmt man selbst für einen Termin ab?"
+preview: ./termin_abstimmen-preview.jpg
+previewAlt: "Wie stimmt man selbst für einen Termin ab?"
 author: "H2 invent GmbH"
 ---
 

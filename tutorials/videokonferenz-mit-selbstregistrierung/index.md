@@ -6,6 +6,8 @@ tags: ["tutorial", "meetling"]
 order: 220
 image: ./selbstregistrierung.gif
 imageAlt: "Wie erstellt man eine Videokonferenz mit Selbstregistrierung?"
+preview: ./selbstregistrierung-preview.jpg
+previewAlt: "Wie erstellt man eine Videokonferenz mit Selbstregistrierung?"
 author: "H2 invent GmbH"
 ---
 

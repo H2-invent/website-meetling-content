@@ -6,6 +6,8 @@ tags: ["tutorial", "meetling"]
 order: 90
 image: ./konferenz-duplizieren.gif
 imageAlt: "Wie dupliziert man eine Videokonferenz?"
+preview: ./konferenz-duplizieren-preview.jpg
+previewAlt: "Wie dupliziert man eine Videokonferenz?"
 author: "H2 invent GmbH"
 ---
 

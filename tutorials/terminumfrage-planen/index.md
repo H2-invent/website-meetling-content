@@ -6,6 +6,8 @@ tags: ["tutorial", "meetling"]
 order: 60
 image: ./terminumfrage.gif
 imageAlt: "Wie plant man eine Terminumfrage?"
+preview: ./terminumfrage-preview.jpg
+previewAlt: "Wie plant man eine Terminumfrage?"
 author: "H2 invent GmbH"
 ---
 

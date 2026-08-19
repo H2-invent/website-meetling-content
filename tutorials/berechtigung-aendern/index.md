@@ -6,6 +6,8 @@ tags: ["tutorial", "meetling"]
 order: 40
 image: ./berechtigung_aendern.gif
 imageAlt: "Wie ändert man die Berechtigungen von Teilnehmern?"
+preview: ./berechtigung_aendern-preview.jpg
+previewAlt: "Wie ändert man die Berechtigungen von Teilnehmern?"
 author: "H2 invent GmbH"
 ---
 

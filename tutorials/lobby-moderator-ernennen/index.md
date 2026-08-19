@@ -6,6 +6,8 @@ tags: ["tutorial", "meetling"]
 order: 190
 image: ./lobby_moderator_ernennen.gif
 imageAlt: "Wie ernennt man einen Lobby-Moderator?"
+preview: ./lobby_moderator_ernennen-preview.jpg
+previewAlt: "Wie ernennt man einen Lobby-Moderator?"
 author: "H2 invent GmbH"
 ---
 

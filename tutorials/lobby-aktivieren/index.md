@@ -6,6 +6,8 @@ tags: ["tutorial", "meetling"]
 order: 180
 image: ./konferenz_lobby.gif
 imageAlt: "Wie aktiviert man die Lobby in einer Videokonferenz?"
+preview: ./konferenz_lobby-preview.jpg
+previewAlt: "Wie aktiviert man die Lobby in einer Videokonferenz?"
 author: "H2 invent GmbH"
 ---
 

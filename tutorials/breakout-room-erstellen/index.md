@@ -6,6 +6,8 @@ tags: ["tutorial", "meetling"]
 order: 250
 image: ./meetling_breakout-rooms.gif
 imageAlt: "Wie erstellt man einen Breakout-Room?"
+preview: ./meetling_breakout-rooms-preview.jpg
+previewAlt: "Wie erstellt man einen Breakout-Room?"
 author: "H2 invent GmbH"
 ---
 

@@ -6,6 +6,8 @@ tags: ["tutorial", "meetling"]
 order: 290
 image: ./aufnahme_starten.gif
 imageAlt: "Aufnahme starten und Downloaden"
+preview: ./aufnahme_starten-preview.jpg
+previewAlt: "Aufnahme starten und Downloaden"
 author: "H2 invent GmbH"
 ---
 

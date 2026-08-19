@@ -6,6 +6,8 @@ tags: ["tutorial", "meetling"]
 order: 210
 image: ./protokoll_ansehen-1.gif
 imageAlt: "Wo kann man das Protokoll einsehen?"
+preview: ./protokoll_ansehen-1-preview.jpg
+previewAlt: "Wo kann man das Protokoll einsehen?"
 author: "H2 invent GmbH"
 ---
 

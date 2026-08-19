@@ -6,6 +6,8 @@ tags: ["tutorial", "meetling"]
 order: 140
 image: ./konferenz-loeschen.gif
 imageAlt: "Wie löscht man eine Videokonferenz?"
+preview: ./konferenz-loeschen-preview.jpg
+previewAlt: "Wie löscht man eine Videokonferenz?"
 author: "H2 invent GmbH"
 ---
 

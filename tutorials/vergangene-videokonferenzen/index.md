@@ -6,6 +6,8 @@ tags: ["tutorial", "meetling"]
 order: 110
 image: ./vergangene-konferenzen-einsehen.gif
 imageAlt: "Wie kann man vergangene Videokonferenzen einsehen?"
+preview: ./vergangene-konferenzen-einsehen-preview.jpg
+previewAlt: "Wie kann man vergangene Videokonferenzen einsehen?"
 author: "H2 invent GmbH"
 ---
 

@@ -6,6 +6,8 @@ tags: ["tutorial", "meetling"]
 order: 150
 image: ./dauerhafte-konferenz.gif
 imageAlt: "Wie richtet man einen Serientermin ein?"
+preview: ./dauerhafte-konferenz-preview.jpg
+previewAlt: "Wie richtet man einen Serientermin ein?"
 author: "H2 invent GmbH"
 ---
 
