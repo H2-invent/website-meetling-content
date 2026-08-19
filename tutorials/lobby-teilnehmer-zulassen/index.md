@@ -3,8 +3,11 @@ title: "Wie lässt man Lobby-Teilnehmer zu?"
 description: "Die Videokonferenz öffnen und starten. Die Kachelansicht unten über die vier Quadrate auswählen. Nun in die Mitte auf das eigene Symbol klicken."
 date: 2024-03-23
 tags: ["tutorial", "meetling"]
+order: 200
 image: ./lobby_teilnehmer-zulassen.gif
 imageAlt: "Wie lässt man Lobby-Teilnehmer zu?"
+preview: ./lobby_teilnehmer-zulassen-preview.jpg
+previewAlt: "Wie lässt man Lobby-Teilnehmer zu?"
 author: "H2 invent GmbH"
 ---
 

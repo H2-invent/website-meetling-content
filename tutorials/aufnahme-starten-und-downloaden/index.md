@@ -3,8 +3,11 @@ title: "Aufnahme starten und Downloaden"
 description: "Erfahren Sie, wie Sie in Meetling als Moderator eine Aufnahme starten und beenden und die fertige Aufzeichnung als MP4-Datei herunterladen."
 date: 2025-12-09
 tags: ["tutorial", "meetling"]
+order: 290
 image: ./aufnahme_starten.gif
 imageAlt: "Aufnahme starten und Downloaden"
+preview: ./aufnahme_starten-preview.jpg
+previewAlt: "Aufnahme starten und Downloaden"
 author: "H2 invent GmbH"
 ---
 

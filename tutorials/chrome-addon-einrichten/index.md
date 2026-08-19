@@ -3,6 +3,7 @@ title: "Chrome Addon einrichten"
 description: "Anleitung zur Einrichtung der Meetling Chrome-Erweiterung per Managed Policy für Unternehmen und Bildungseinrichtungen."
 date: 2025-07-08
 tags: ["tutorial", "meetling"]
+order: 280
 author: "H2 invent GmbH"
 ---
 

@@ -3,6 +3,7 @@ title: "Firewall für Livekit Cluster einrichten"
 description: "Für eine optimale Video- und Audioqualität in der Videokonferenz empfehlen wir, die hier aufgeführten Firewalleinstellungen bei Ihnen vorzunehmen, um mit unserem Livekit Cluster zu arbeiten."
 date: 2026-08-10
 tags: ["tutorial", "meetling"]
+order: 320
 author: "H2 invent GmbH"
 ---
 

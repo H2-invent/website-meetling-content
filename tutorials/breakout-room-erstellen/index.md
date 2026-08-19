@@ -3,8 +3,11 @@ title: "Wie erstellt man einen Breakout-Room?"
 description: "Auf der Startseite die gewünschte Videokonferenz heraussuchen und rechts über STARTEN in die Videokonferenz gehen."
 date: 2024-03-23
 tags: ["tutorial", "meetling"]
+order: 250
 image: ./meetling_breakout-rooms.gif
 imageAlt: "Wie erstellt man einen Breakout-Room?"
+preview: ./meetling_breakout-rooms-preview.jpg
+previewAlt: "Wie erstellt man einen Breakout-Room?"
 author: "H2 invent GmbH"
 ---
 

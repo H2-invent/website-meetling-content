@@ -3,8 +3,11 @@ title: "Wie erstellt man eine Videokonferenz ohne Teilnehmerliste?"
 description: "Auf der Startseite auf KONFERENZ PLANEN gehen und die Daten für die Videokonferenz eingeben. Ganz unten in diesem Fenster befindet sich das Feld"
 date: 2024-03-23
 tags: ["tutorial", "meetling"]
+order: 230
 image: ./selbstregistrierung-durch-teilnehmenden-link.gif
 imageAlt: "Wie erstellt man eine Videokonferenz ohne Teilnehmerliste?"
+preview: ./selbstregistrierung-durch-teilnehmenden-link-preview.jpg
+previewAlt: "Wie erstellt man eine Videokonferenz ohne Teilnehmerliste?"
 author: "H2 invent GmbH"
 ---
 

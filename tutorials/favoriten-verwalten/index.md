@@ -3,8 +3,11 @@ title: "Wie macht man eine Videokonferenz zum Favoriten?"
 description: "Über die Startseite auf ZUKÜNFTIGE KONFERENZEN oder DAUERHAFTE KONFERENZEN klicken, um die gewünschte Videokonferenz zu finden."
 date: 2024-03-23
 tags: ["tutorial", "meetling"]
+order: 50
 image: ./konferenz-zu-favorit.gif
 imageAlt: "Wie macht man eine Videokonferenz zum Favoriten?"
+preview: ./konferenz-zu-favorit-preview.jpg
+previewAlt: "Wie macht man eine Videokonferenz zum Favoriten?"
 author: "H2 invent GmbH"
 ---
 

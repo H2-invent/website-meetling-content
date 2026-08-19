@@ -3,8 +3,11 @@ title: "Wie kann man eine Konferenz von einem Vertreter erstellen lassen?"
 description: "Der Vertreter kann im Namen des Organisators eine Konferenz erstellen, in dem er dessen Namen bei der Erstellung der Konferenz aus den Drop-Down auswählt."
 date: 2024-03-27
 tags: ["tutorial", "meetling"]
+order: 260
 image: ./create_conference_as_deputy_1_.gif
 imageAlt: "Wie kann man eine Konferenz von einem Vertreter erstellen lassen?"
+preview: ./create_conference_as_deputy_1_-preview.jpg
+previewAlt: "Wie kann man eine Konferenz von einem Vertreter erstellen lassen?"
 author: "H2 invent GmbH"
 ---
 

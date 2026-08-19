@@ -3,8 +3,11 @@ title: "Wie ernennt man einen Lobby-Moderator?"
 description: "Auf der Startseite die gewünschte Videokonferenz suchen. Rechts auf TEILNEHMENDE klicken."
 date: 2024-03-23
 tags: ["tutorial", "meetling"]
+order: 190
 image: ./lobby_moderator_ernennen.gif
 imageAlt: "Wie ernennt man einen Lobby-Moderator?"
+preview: ./lobby_moderator_ernennen-preview.jpg
+previewAlt: "Wie ernennt man einen Lobby-Moderator?"
 author: "H2 invent GmbH"
 ---
 
