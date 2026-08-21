@@ -3,7 +3,7 @@ title: "Das neue Meetling-Plugin: übersichtlicher, moderner und näher am Telef
 description: "Das Meetling-Plugin erhält ein helleres Design, ein übersichtlicheres Kontaktverzeichnis und ein eigenes Fenster für Videoanrufe."
 date: 2026-08-21
 tags: ["meetling", "plugin", "videokonferenz", "update"]
-image: ./app_meetling_de_chrome_plugin.png
+image: ./app_meetling_de_chrome_plugin_compare.png
 imageAlt: "Das modernisierte Meetling-Plugin mit Kontaktverzeichnis und neuem, hellem Design"
 author: "Emanuel Holzmann"
 ---
