@@ -8,26 +8,28 @@ imageAlt: "Das modernisierte Meetling-Plugin mit Kontaktverzeichnis und neuem, h
 author: "Emanuel Holzmann"
 ---
 
-## Ein frischer Auftritt für das Meetling-Plugin
+## Videotelefonie, die sich auch so anfühlt
 
-Das Meetling-Plugin wurde umfassend überarbeitet. Die neue Version wirkt heller, freundlicher und aufgeräumter. Ein heller Kopfbereich, dezente Farben und neu gestaltete Schaltflächen sorgen dafür, dass die wichtigsten Funktionen schnell zu erkennen sind.
+Ein gutes Gespräch sollte nicht mit Umwegen beginnen. Deshalb haben wir das Meetling-Plugin neu gestaltet: moderner im Auftritt, klarer in der Bedienung und noch näher an dem Gefühl eines echten Telefonats.
 
-Auch die Grafiken und Symbole wurden aktualisiert. Dadurch fügt sich das Plugin noch besser in die moderne Meetling-Oberfläche ein und vermittelt vom ersten Öffnen an ein stimmiges Gesamtbild.
+Wenn Sie einen Videoanruf starten, öffnet sich die Konferenz jetzt in einem eigenen Fenster. Das Gespräch steht sofort im Mittelpunkt – ohne es zwischen anderen geöffneten Seiten suchen zu müssen. So bleibt Meetling präsent, während Sie Ihre übrige Arbeit weiterhin im Blick behalten.
 
-## Kontakte stehen jetzt im Mittelpunkt
+## Ihre Kontakte. Direkt zur Hand.
 
-Wer bereits angemeldet ist, gelangt nun ohne Umwege direkt zum persönlichen Kontaktverzeichnis. Nicht benötigte Einführungstexte treten in diesem Moment in den Hintergrund, damit mehr Platz für die Menschen bleibt, die man erreichen möchte.
+Nach dem Öffnen des Plugins sehen Sie als angemeldete Nutzerin oder angemeldeter Nutzer direkt, was zählt: Ihre Kontakte. Wählen Sie die gewünschte Person aus und starten Sie das Gespräch mit wenigen Klicks.
 
-Auch längere Kontaktlisten lassen sich angenehmer nutzen: Das Plugin behält seine feste Größe, während nur die Liste selbst gescrollt wird. Kopf- und Fußbereich bleiben an ihrem Platz. Das sorgt für Ruhe in der Darstellung und macht die Bedienung übersichtlicher.
+Auch bei einer längeren Kontaktliste bleibt die Oberfläche ruhig und übersichtlich. So finden Sie schneller die richtige Person und kommen ohne Ablenkung ins Gespräch.
 
-## Videoanrufe öffnen sich in einem eigenen Fenster
+## Ein frischer Auftritt für Meetling
 
-Die größte Neuerung zeigt sich beim Start eines Gesprächs. Eine Meetling-Videokonferenz öffnet sich jetzt in einem eigenen, direkt sichtbaren Fenster – statt als weiterer Tab zwischen anderen Webseiten.
+Das neue Design ist heller, freundlicher und aufgeräumter. Klare Schaltflächen, vertraute Meetling-Farben und eine übersichtliche Anordnung führen intuitiv durch die wichtigsten Funktionen.
 
-Das gilt unabhängig davon, wie das Gespräch gestartet wird: über einen Kontakt, eine Benachrichtigung oder eine Sofort-Konferenz. Der Anruf rückt damit in den Mittelpunkt und fühlt sich stärker wie ein klassisches Telefonat an. Gleichzeitig bleibt das bisherige Browserfenster geöffnet, sodass der ursprüngliche Arbeitskontext nicht verloren geht.
+Ob Sie einen Kontakt anrufen oder spontan eine Konferenz starten möchten: Alles ist dort, wo Sie es erwarten. Das Ergebnis ist eine Oberfläche, die sich nicht in den Vordergrund drängt, sondern Sie schnell zu dem bringt, worum es wirklich geht – dem persönlichen Austausch.
 
-## Weniger Ablenkung, schneller im Gespräch
+## Einfach öffnen, auswählen und sprechen
 
-Mit dem Update wird das Meetling-Plugin nicht nur moderner, sondern vor allem klarer im täglichen Gebrauch. Kontakte sind schneller erreichbar, lange Listen bleiben übersichtlich und Videoanrufe erhalten ihren eigenen Raum.
+Mit dem neuen Meetling-Plugin fühlt sich eine Videokonferenz noch mehr wie ein direktes Telefonat an. Ein Klick genügt, und Ihr Gespräch erhält ein eigenes Fenster und damit die Aufmerksamkeit, die es verdient.
 
-So führt der Weg mit weniger Ablenkung vom Öffnen des Plugins bis zum persönlichen Gespräch.
+Probieren Sie das neue Plugin aus und erleben Sie, wie direkt sichere Videokommunikation sein kann.
+
+[Hier gehts Plugin im Chrome web store](https://chromewebstore.google.com/detail/meetling-sofortkonferenz/eigjajmppcgpcghajhmbddidmdfeepce?hl=de)
