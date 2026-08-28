@@ -34,6 +34,8 @@ Der Monitor zeigt unter anderem:
 
 Damit wird aus der pauschalen Aussage „Die Konferenz funktioniert nicht“ eine Reihe konkreter Prüfpunkte. Ist überhaupt eine Peer Connection vorhanden? Bleibt sie beim Verbindungsaufbau hängen? Ist sie verbunden, aber es werden keine RTP-Pakete empfangen? Hat der Tab ein Mikrofon geöffnet? Fehlt der Webseite die erforderliche Berechtigung? Diese Trennung verkürzt die Fehlersuche erheblich.
 
+![WebRTC Live Monitor mit einer verbundenen Peer Connection und den zusammengefassten Verbindungszuständen](./webrtc-live-monitor-status.png)
+
 ## Warum WebRTC-Monitoring im Browser anspruchsvoll ist
 
 WebRTC besteht nicht aus einem einzelnen Datenstrom. Eine Anwendung kann mehrere Peer Connections, Transceiver, Sender, Receiver und Medien-Tracks gleichzeitig verwalten. Ein Videokanal kann zudem über Simulcast in mehreren Qualitätsstufen übertragen werden. Redundanz- und Reparaturmechanismen wie RTX, RED, ULPFEC oder FlexFEC erzeugen weitere Statistikobjekte. Würde ein Monitor lediglich alle RTP-Reports zählen, würde aus einem einzigen sichtbaren Videokanal schnell eine irreführend hohe Zahl.
@@ -61,6 +63,8 @@ Intern liefert der Browser die Zeitstempel in Millisekunden. Deshalb multiplizie
 > **Bitrate in bit/s = Byte-Differenz × 8.000 ÷ Millisekunden-Differenz**
 
 Beim ersten Messpunkt gibt es noch keinen vorherigen Wert zum Vergleichen. Die Anzeige startet deshalb korrekt bei `0 kbit/s` und kann erst ab der folgenden Messung eine Übertragungsrate berechnen. Die Abfrage erfolgt alle 2,5 Sekunden. Eine Sperre verhindert, dass sich langsamere `getStats()`-Messungen überlappen und dadurch widersprüchliche Ergebnisse entstehen.
+
+![Getrennte Anzeige der ein- und ausgehenden Audio- und Videokanäle mit aktueller Bitrate](./webrtc-live-monitor-media.png)
 
 ## Kamera oder Bildschirmfreigabe?
 
@@ -113,6 +117,8 @@ Der Monitor ersetzt dabei weder LiveKit-Servermetriken noch Logs, Traces oder `c
 Über `navigator.mediaDevices.enumerateDevices()` zeigt die Erweiterung verfügbare Mikrofone, Lautsprecher und Kameras an. Welche Geräte der aktuelle Tab über `getUserMedia()` tatsächlich geöffnet hat, wird separat dargestellt. Zusätzlich wird der Status der Kamera- und Mikrofonberechtigungen abgefragt.
 
 Chrome liefert jedoch keinen verlässlichen Anschlusstyp wie „USB“, „intern“ oder „Bluetooth“. Ein USB-Gerät kann daher nur dann als solches erkannt werden, wenn seine vom Browser bereitgestellte Bezeichnung einen entsprechenden Hinweis enthält. Vor einer Medienfreigabe anonymisiert der Browser Gerätebezeichnungen häufig. Auch hier zeigt das Tool transparent nur die Informationen an, die der Browser tatsächlich bereitstellt.
+
+![Im aktuellen Tab verwendete sowie weitere verfügbare Audio- und Videogeräte](./webrtc-live-monitor-devices.png)
 
 ## Datenschutzfreundliche Diagnose direkt am Endgerät
 
