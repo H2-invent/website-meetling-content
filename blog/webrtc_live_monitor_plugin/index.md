@@ -2,7 +2,7 @@
 title: "WebRTC Live Monitor: LiveKit-Verbindungen direkt im Browser analysieren"
 description: "WebRTC Live Monitor macht Peer Connections, Medienkanäle, Bitraten, Verbindungszustände und Geräte im aktuellen Browser-Tab sichtbar – lokal, kompakt und ohne Medieninhalte aufzuzeichnen."
 date: 2026-08-28
-tags: ["webrtc", "livekit", "monitoring", "chrome-extension"]
+tags: ["webrtc", "livekit", "monitoring", "chrome-extension", "KI-Generiert"]
 image: ./webrtc-live-monitor.png
 imageAlt: "WebRTC Live Monitor mit Verbindungsstatus, Medienkanälen und Bitraten einer Videokonferenz"
 author: "Emanuel Holzmann"
