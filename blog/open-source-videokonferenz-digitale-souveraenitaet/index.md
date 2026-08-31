@@ -167,31 +167,5 @@ Eine Open-Source-Videokonferenz kann Unternehmen mehr Kontrolle, bessere Prüfba
 
 Die richtige Frage lautet deshalb nicht: „Ist Open Source sicherer?“ Sondern: „Welche Lösung gibt uns die erforderliche Transparenz und Handlungsfähigkeit – und können wir sie dauerhaft sicher betreiben?“
 
-Wenn Sie prüfen möchten, wie sich Ihre Abhängigkeit von proprietären Videokonferenzanbietern reduzieren lässt, analysieren wir gemeinsam Ihre bestehende Umgebung, Ihren Schutzbedarf sowie ein realistisches Migrations- und Betriebskonzept. [Nehmen Sie für eine individuelle Beratung Kontakt mit Meetling auf](https://meetling.de/).
+Wenn Sie prüfen möchten, wie sich Ihre Abhängigkeit von proprietären Videokonferenzanbietern reduzieren lässt, analysieren wir gemeinsam Ihre bestehende Umgebung, Ihren Schutzbedarf sowie ein realistisches Migrations- und Betriebskonzept. [Nehmen Sie für eine individuelle Beratung Kontakt mit Meetling auf](https://meetling.de/#contact-card).
 
-## SEO- und Redaktionsangaben
-
-1. **Hauptkeyword:** Open-Source-Videokonferenz
-2. **Wichtigste Nebenkeywords:** sichere Open-Source-Videokonferenz, digitale Souveränität, souveräne Videokommunikation, Vendor Lock-in, Datenhoheit, selbst gehostete Videokonferenz, On-Premise-Videokonferenz, Videokonferenz für regulierte Branchen, Microsoft Teams oder Zoom ersetzen, Open Source in Unternehmen
-3. **SEO-Titel:** Open-Source-Videokonferenz: strategische Vorteile
-4. **Meta-Description:** Open-Source-Videokonferenzen stärken Datenhoheit und Wahlfreiheit. Worauf Unternehmen bei Strategie, Betrieb und Migration achten sollten.
-5. **URL-Slug:** `open-source-videokonferenz-strategische-vorteile`
-
-## Verwendete und überprüfte Quellen
-
-- [BSI: Kompendium für organisationsinterne Telekommunikationssysteme mit erhöhtem Schutzbedarf](https://www.bsi.bund.de/DE/Service-Navi/Presse/Alle-Meldungen-News/Meldungen/Organisationsinterne_TK-Systeme_250304.html), veröffentlicht am 5. März 2025
-- [ENISA: Good Practices for Supply Chain Cybersecurity](https://www.enisa.europa.eu/publications/good-practices-for-supply-chain-cybersecurity), veröffentlicht am 13. Juni 2023
-- [ENISA: Technical Advisory for Secure Use of Package Managers](https://www.enisa.europa.eu/sites/default/files/2026-03/ENISA%20Technical%20Advisory%20-%20Package_Managers_Final.pdf), Version 1.1 vom März 2026
-- [Europäische Kommission: Strengthening Europe’s tech sovereignty](https://commission.europa.eu/news-and-media/news/strengthening-europes-tech-sovereignty-2026-06-03_en), veröffentlicht am 3. Juni 2026
-- [Europäische Kommission: Open Source Software Strategy](https://commission.europa.eu/about/departments-and-executive-agencies/digital-services/open-source-software-strategy_en)
-- [EUR-Lex: Richtlinie (EU) 2022/2555 – NIS2](https://eur-lex.europa.eu/eli/dir/2022/2555/oj)
-- [Meetling: Sicherheit und Datenschutz](https://meetling.de/sicherheit), geprüft am 28. August 2026
-- [Meetling: Produkt- und Beratungsinformationen](https://meetling.de/), geprüft am 28. August 2026
-- [GitHub: H2 invent/Jitsi Admin](https://github.com/H2-invent/jitsi-admin)
-
-## Vorschläge für Grafiken und Screenshots
-
-1. **Headerbild:** Aus vorhandenem Meetling-Markenmaterial und geeigneten Produkt-Screenshots; Motiv „offene, kontrollierbare Kommunikationsinfrastruktur“. Dateiname: `header.png`.
-2. **Entscheidungsgrafik zu Betriebsmodellen:** Gegenüberstellung von On-Premise, Dienstleisterbetrieb, Private Cloud, Managed Service und Hybridmodell entlang der Kriterien Kontrolle, Eigenaufwand und Flexibilität. Dateiname: `betriebsmodelle.png`.
-3. **Grafik zur digitalen Souveränität:** Fünf Ebenen – Datenhoheit, technologische Kontrolle, Betriebswahl, Exit-Fähigkeit und Kompetenz. Dateiname: `digitale-souveraenitaet.png`.
-4. **Screenshot oder gestaltete Checkliste:** Die wichtigsten Prüffelder vor dem Wechsel von einer proprietären Plattform. Dateiname: `wechsel-checkliste.png`.
