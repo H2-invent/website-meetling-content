@@ -8,6 +8,7 @@ imageAlt: "Offene Videokommunikation als Teil einer souveränen Unternehmens-IT"
 author: "Emanuel Holzmann"
 ---
 
+
 ## Videokommunikation ist strategische Infrastruktur
 
 Videokonferenzen sind längst mehr als ein Hilfsmittel für gelegentliche Online-Meetings. Über sie laufen Bewerbungsgespräche, Vertragsverhandlungen, Vorstandssitzungen, Projektabstimmungen und Gespräche mit Kunden, Kanzleien oder Behörden. In Industrieunternehmen werden Entwicklungsstände besprochen, in Finanzunternehmen personenbezogene und geschäftskritische Informationen, in der Sicherheits- und Rüstungsindustrie möglicherweise Inhalte mit besonders hohem Schutzbedarf.

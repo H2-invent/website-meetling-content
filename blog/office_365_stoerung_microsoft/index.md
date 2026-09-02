@@ -1,12 +1,13 @@
 ---
 title: "Microsoft-365-Störung: Videokonferenzen resilient und unabhängig betreiben"
-description: "Die aktuelle Microsoft-365-Störung zeigt, warum Unternehmen ihre Kommunikation nicht vollständig von einem Cloud-Anbieter abhängig machen sollten. Meetling verbindet sichere On-Premises-Kommunikation mit flexibel skalierbaren externen Kapazitäten."
+description: "Die Microsoft-365-Störung zeigt, warum Unternehmen Kommunikation resilient aufstellen und selbst gehostete Videokonferenzen einsetzen können."
 date: 2026-09-01
 tags: ["digitale-resilienz", "videokonferenz", "on-premises", "hybrid-cloud", "KI-Generiert"]
 image: ./microsoft-365-ausfall-digitale-resilienz.png
 imageAlt: "Getrennte interne und externe Meetling-Infrastruktur als resiliente Alternative zu zentralen Videokonferenz-Clouds"
 author: "Emanuel Holzmann"
 ---
+
 
 ## Wenn zentrale Cloud-Dienste ausfallen, wird Abhängigkeit sichtbar
 

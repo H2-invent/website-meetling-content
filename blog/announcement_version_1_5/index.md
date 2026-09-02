@@ -8,6 +8,7 @@ imageAlt: "Headerbild zum Release von Meetling 1.5.0"
 author: "Emanuel Holzmann"
 ---
 
+
 ## Meetling 1.5.0 ist da
 
 Mit Version 1.5.0 erhält Meetling eine Reihe sichtbarer Neuerungen, die den täglichen Umgang mit Videokonferenzen einfacher und angenehmer machen. Im Mittelpunkt stehen automatische Transkriptionen, ein deutlich schnelleres Dashboard und eine komplett überarbeitete Startseite. Gleichzeitig haben wir viele kleinere Abläufe verbessert und bekannte Fehler behoben.
