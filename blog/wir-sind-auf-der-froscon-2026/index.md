@@ -8,6 +8,8 @@ imageAlt: "Header Bild für den Vortrag Airgapped Kubernetes auf der Froscon 202
 author: "Andreas Holzmann"
 ---
 
+> **KI-generiert:** Dieser Beitrag wurde mit Unterstützung künstlicher Intelligenz erstellt und redaktionell geprüft.
+
 ## Besuchen Sie uns auf der FrOSCon
 
 Meetling ist dieses Jahr auf der [Free and Open Source Software Conference](https://froscon.org/) als Standaussteller vertreten – und hält einen Vortrag. Besuchen Sie uns an unserem Stand, wir freuen uns über interessante Gespräche rund um sichere Videokonferenzen und Open Source.

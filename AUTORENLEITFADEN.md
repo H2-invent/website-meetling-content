@@ -93,3 +93,15 @@ Entwurf als Branch, dann Pull Request. Veröffentlicht wird durch **Merge** — 
 Nach dem Merge baut die Website sich neu; nach wenigen Minuten ist der Beitrag live. Schlägt der Build fehl, steht in der GitHub Action, welche Datei und welches Feld das Problem sind — der Beitrag geht dann nicht halbfertig online, sondern gar nicht.
 
 Bei einer inhaltlichen Überarbeitung `updated` setzen. Das Datum erscheint auf der Seite und als Aktualisierungssignal in der Sitemap. Für Tippfehler lohnt es nicht.
+
+
+## Veröffentlichungs-Checkliste
+
+Vor dem Pull Request für jeden Beitrag prüfen:
+
+- [ ] Der Ordnername ist der unveränderte öffentliche Slug (`blog/<slug>`).
+- [ ] `index.md` enthält `title`, `description` (140–160 Zeichen), `date`, `image` und `imageAlt`.
+- [ ] Das Headerbild liegt im Beitragsordner und wird über das Frontmatter eingebunden.
+- [ ] Direkt nach dem Frontmatter steht die zentrale Kennzeichnung `**KI-generiert:**`.
+
+Die technische Kurzprüfung läuft mit `scripts/validate-content.sh` und kann vor dem Commit ausgeführt werden.
