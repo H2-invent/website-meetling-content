@@ -8,7 +8,6 @@ imageAlt: "Offene Videokommunikation als Teil einer souveränen Unternehmens-IT"
 author: "Emanuel Holzmann"
 ---
 
-> **KI-generiert:** Dieser Beitrag wurde mit Unterstützung künstlicher Intelligenz erstellt und redaktionell geprüft.
 
 ## Videokommunikation ist strategische Infrastruktur
 

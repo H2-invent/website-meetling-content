@@ -8,7 +8,6 @@ imageAlt: "Headerbild zum Release von Meetling 1.5.0"
 author: "Emanuel Holzmann"
 ---
 
-> **KI-generiert:** Dieser Beitrag wurde mit Unterstützung künstlicher Intelligenz erstellt und redaktionell geprüft.
 
 ## Meetling 1.5.0 ist da
 

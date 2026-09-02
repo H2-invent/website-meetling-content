@@ -8,7 +8,6 @@ imageAlt: "WebRTC Live Monitor mit Verbindungsstatus, Medienkanälen und Bitrate
 author: "Emanuel Holzmann"
 ---
 
-> **KI-generiert:** Dieser Beitrag wurde mit Unterstützung künstlicher Intelligenz erstellt und redaktionell geprüft.
 
 ## Wenn eine Videokonferenz läuft – aber niemand weiß, wo es hakt
 

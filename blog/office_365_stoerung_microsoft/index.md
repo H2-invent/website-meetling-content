@@ -8,7 +8,6 @@ imageAlt: "Getrennte interne und externe Meetling-Infrastruktur als resiliente A
 author: "Emanuel Holzmann"
 ---
 
-> **KI-generiert:** Dieser Beitrag wurde mit Unterstützung künstlicher Intelligenz erstellt und redaktionell geprüft.
 
 ## Wenn zentrale Cloud-Dienste ausfallen, wird Abhängigkeit sichtbar
 

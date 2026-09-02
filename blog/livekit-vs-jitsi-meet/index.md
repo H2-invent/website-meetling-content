@@ -8,7 +8,6 @@ image: ./livekit-vs-jitsi.png
 imageAlt: "Abstrakte Darstellung einer Videokonferenz: acht Kacheln mit angedeuteten Teilnehmenden, zwei davon in Türkis und Blaugrau hervorgehoben, darunter eine Tonspur"
 ---
 
-> **KI-generiert:** Dieser Beitrag wurde mit Unterstützung künstlicher Intelligenz erstellt und redaktionell geprüft.
 
 Wer eine Videokonferenz selbst betreiben will, landet früher oder später bei zwei Namen: **LiveKit** und **Jitsi Meet**. Beide sind quelloffen, beide stehen unter der Apache-Lizenz 2.0, beide arbeiten als SFU — als Server, der Medienströme weiterleitet, statt sie neu zu mischen. Und trotzdem sind es zwei sehr unterschiedliche Werkzeuge.
 

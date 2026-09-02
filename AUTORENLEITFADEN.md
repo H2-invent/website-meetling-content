@@ -9,6 +9,7 @@ Für alle, die Beiträge und Tutorials für meetling.de schreiben. Der technisch
 3. **„Sichere Videokonferenz" ist reserviert.** Diese Phrase gehört exklusiv der geplanten Pillar-Page `/sichere-videokonferenz`. In Beiträgen also nicht als `title` oder als erste Überschrift verwenden. Im Fließtext ist sie selbstverständlich erlaubt — gern mit einem Link auf die Seite, sobald es sie gibt.
 4. **`description` mit 140–160 Zeichen.** Das ist der Text, den Google unter dem Titel anzeigt. Er soll den Beitrag beschreiben, nicht anteasern: ein vollständiger Satz, der die Frage benennt, die der Beitrag beantwortet.
 5. **Mit Namen zeichnen.** `author: "Vorname Nachname"` — erkennbare Autorenschaft wird von Suchmaschinen positiv bewertet und von Lesern auch.
+- **KI-Texte kennzeichnen.** Wenn ein Beitrag mit Unterstützung künstlicher Intelligenz erstellt wurde, ergänzen Sie im Frontmatter exakt den Tag `KI-Generiert`, zum Beispiel `tags: ["Meetling", "KI-Generiert"]`. Menschlich verfasste Beiträge erhalten diesen Tag nicht. Eine zusätzliche Kennzeichnung im Fließtext ist nicht vorgesehen.
 
 ## Slugs
 
@@ -102,6 +103,6 @@ Vor dem Pull Request für jeden Beitrag prüfen:
 - [ ] Der Ordnername ist der unveränderte öffentliche Slug (`blog/<slug>`).
 - [ ] `index.md` enthält `title`, `description` (140–160 Zeichen), `date`, `image` und `imageAlt`.
 - [ ] Das Headerbild liegt im Beitragsordner und wird über das Frontmatter eingebunden.
-- [ ] Direkt nach dem Frontmatter steht die zentrale Kennzeichnung `**KI-generiert:**`.
+- [ ] `tags` ist vorhanden; bei KI-generierten Beiträgen enthält die Liste exakt `KI-Generiert`, bei menschlich verfassten Beiträgen nicht.
 
 Die technische Kurzprüfung läuft mit `scripts/validate-content.sh` und kann vor dem Commit ausgeführt werden.

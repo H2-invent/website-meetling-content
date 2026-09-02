@@ -8,7 +8,6 @@ imageAlt: "Header Bild für den Vortrag Airgapped Kubernetes auf der Froscon 202
 author: "Andreas Holzmann"
 ---
 
-> **KI-generiert:** Dieser Beitrag wurde mit Unterstützung künstlicher Intelligenz erstellt und redaktionell geprüft.
 
 ## Besuchen Sie uns auf der FrOSCon
 

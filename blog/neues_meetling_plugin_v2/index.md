@@ -8,7 +8,6 @@ imageAlt: "Das modernisierte Meetling-Plugin mit Kontaktverzeichnis und neuem, h
 author: "Emanuel Holzmann"
 ---
 
-> **KI-generiert:** Dieser Beitrag wurde mit Unterstützung künstlicher Intelligenz erstellt und redaktionell geprüft.
 
 ## Videotelefonie, die sich auch so anfühlt
 
