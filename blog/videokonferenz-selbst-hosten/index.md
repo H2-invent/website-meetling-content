@@ -3,7 +3,7 @@ title: "Videokonferenz selbst hosten: Voraussetzungen und Verantwortung"
 description: "Videokonferenz selbst hosten: Welche Infrastruktur, Betriebsprozesse und Zuständigkeiten nötig sind – mit einer praxisnahen Make-or-Buy-Matrix."
 date: 2026-09-03
 tags: ["Open Source", "Eigenbetrieb", "KI-Generiert"]
-image: ./header.png
+image: ./videokonferenz-selbst-hosten-infrastruktur.webp
 imageAlt: "Technische Komponenten und Betriebsaufgaben einer selbst gehosteten Videokonferenz"
 author: "Meetling Team"
 related: ["/sicherheit", "/blog/saas-oder-on-premise-videokonferenz", "/preise"]
