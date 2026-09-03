@@ -3,8 +3,8 @@ title: "Microsoft-365-Störung: Videokonferenzen resilient und unabhängig betre
 description: "Die Microsoft-365-Störung zeigt, warum Unternehmen Kommunikation resilient aufstellen und selbst gehostete Videokonferenzen einsetzen können."
 date: 2026-09-01
 tags: ["digitale-resilienz", "videokonferenz", "on-premises", "hybrid-cloud", "KI-Generiert"]
-image: ./microsoft-365-ausfall-digitale-resilienz.png
-imageAlt: "Getrennte interne und externe Meetling-Infrastruktur als resiliente Alternative zu zentralen Videokonferenz-Clouds"
+image: ./resiliente-videokommunikation-v2.png
+imageAlt: "Videokonferenzfenster mit zwei getrennten Verbindungen zu unabhängigen Serverpfaden"
 author: "Emanuel Holzmann"
 ---
 
