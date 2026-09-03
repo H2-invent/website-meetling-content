@@ -4,8 +4,8 @@ description: "Diese Checkliste für eine sichere Videokonferenz prüft Hosting, 
 date: 2026-09-02
 tags: ["Ratgeber", "Datenschutz", "KI-Generiert"]
 author: "Meetling Redaktion"
-image: ./header.png
-imageAlt: "Abstrakte Checkliste mit geprüften Sicherheitsmerkmalen für eine Videokonferenz"
+image: ./sichere-videokonferenz-checkliste.png
+imageAlt: "Isometrische Sicherheitscheckliste mit Videokonferenzfenster, Server, Schutzschild und verschlüsseltem Datenpfad"
 related: ["/sicherheit", "/beratung"]
 ---
 
