@@ -2,7 +2,7 @@
 title: "Wenn die KI-Cloud ausfällt: Warum Unternehmen lokale KI-Resilienz brauchen"
 description: "Ausfälle bei ChatGPT und Claude zeigen die Risiken zentraler KI-Dienste. Lokale Sprachmodelle und Transkription mit Meetling stärken digitale Resilienz und Datensouveränität."
 date: 2026-09-04
-tags: ["KI-Generiert", "digitale-resilienz", "lokale-ki", "datensouveraenitaet", "videokonferenz"]
+tags: [ "Lokale-ki", "datensouveraenitaet", "videokonferenz","KI-Generiert", "digitale-resilienz"]
 image: ./header-ki-resilienz.png
 imageAlt: "Lokale KI-Infrastruktur hält Videokonferenzen, Transkription und Sprachmodelle trotz Ausfall externer KI-Clouds verfügbar"
 author: "Emanuel Holzmann"
