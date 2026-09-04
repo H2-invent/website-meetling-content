@@ -1,183 +1,164 @@
 ---
-title: "Sichere Videokonferenz: 10 Prüfkriterien für Datenschutz, Hosting und digitale Souveränität"
-description: "Sichere Videokonferenz: 10 prüfbare Kriterien zu Datenschutz, Verschlüsselung, Hosting, Admin-Kontrolle und digitaler Souveränität – mit Entscheidungsmatrix."
+title: "Sichere Videokonferenz: 10 Prüfkriterien | Meetling"
+description: "Sichere Videokonferenz auswählen: 10 konkrete Prüfkriterien für Datenschutz, Hosting, Verschlüsselung und digitale Souveränität – inklusive Entscheidungsmatrix."
 date: 2026-09-04
 tags: ["sichere-videokonferenz"]
-image: ./MEEA-62-R1.0-header-sichere-videokonferenz.png
+image: ./MEEA-62-R2.0-header-sichere-videokonferenz.png
 imageAlt: "Abstrakte Illustration einer sicheren Videokonferenz mit Meetingdisplay und Rechenzentrumsumgebung"
 author: "meetling Team"
 ---
 
-# Sichere Videokonferenz: 10 Prüfkriterien für Datenschutz, Hosting und digitale Souveränität
+# Sichere Videokonferenz: 10 Prüfkriterien für eine belastbare Entscheidung
 
-**Gemeinsame Revision:** MEEA-62-R1.0 · 04.09.2026  
-**Primärkeyword:** sichere Videokonferenz  
-**Suchintention:** informational / commercial investigation  
-**Lesedauer:** ca. 8 Minuten
+Montagmorgen, 9:02 Uhr: Die Geschäftsführung bespricht die geplante Übernahme. Um 10 Uhr führt die Personalabteilung ein Rückkehrgespräch. Am Nachmittag berät ein kommunaler Ausschuss über noch unveröffentlichte Unterlagen. Drei Videokonferenzen, drei unterschiedliche Risiken – und möglicherweise dasselbe Werkzeug.
 
-## SEO-Onpage
+Ob eine Videokonferenz sicher genug ist, entscheidet sich deshalb nicht an einem einzelnen Häkchen in der Produktbeschreibung. Entscheidend ist, ob Technik, Verträge und betriebliche Regeln zum konkreten Gespräch passen. Wer Angebote vergleicht, braucht überprüfbare Antworten: Welche Daten fallen an? Wo werden sie verarbeitet? Wer kann zugreifen? Was passiert bei einem Vorfall – und wie gelingt später ein Anbieterwechsel?
 
-**SEO-Title:** Sichere Videokonferenz: 10 Prüfkriterien | Meetling  
-**Meta Description:** Sichere Videokonferenz auswählen: 10 prüfbare Kriterien zu Datenschutz, Verschlüsselung, Hosting, Admin-Kontrolle und digitaler Souveränität – mit Entscheidungsmatrix.
+Die folgenden zehn Prüfkriterien übersetzen diese Fragen in einen strukturierten Auswahlprozess. Sie helfen bei Ausschreibungen, Anbieterwechseln und regelmäßigen Sicherheitsreviews. Eine individuelle Rechts- oder Datenschutzberatung ersetzen sie nicht.
 
-## Einleitung
+## Zuerst das Szenario klären, dann den Anbieter bewerten
 
-Eine sichere Videokonferenz ist mehr als ein Meeting mit Passwort. Entscheidend ist, welche Daten entstehen, wer darauf zugreifen kann, wo sie verarbeitet werden und ob eine Organisation die Konfiguration selbst kontrolliert. Das gilt für spontane Teamtermine ebenso wie für vertrauliche Gespräche in Unternehmen und Behörden.
+Eine öffentliche Bürgersprechstunde stellt andere Anforderungen als eine Aufsichtsratssitzung. Beginnen Sie deshalb nicht mit Funktionslisten, sondern mit zwei oder drei typischen Entscheidungssituationen:
 
-Diese Checkliste hilft bei der Vorauswahl und beim Anbieter- oder Produktvergleich. Sie ersetzt keine Datenschutz-Folgenabschätzung, Rechtsberatung oder individuelle Risikoanalyse. Nicht jedes Kriterium muss für jedes Meeting gleich streng erfüllt sein: Für öffentliche Informationsveranstaltungen gelten andere Anforderungen als für Personal-, Gesundheits- oder Verschlusssachen.
+- **Alltag:** Regelmäßige interne Abstimmung ohne besonders schützenswerte Inhalte.
+- **Vertraulich:** Personal-, Vertrags- oder Gesundheitsdaten werden besprochen oder geteilt.
+- **Kritisch:** Ein Bekanntwerden, eine Manipulation oder ein Ausfall hätte erhebliche rechtliche, wirtschaftliche oder öffentliche Folgen.
 
-## Was bedeutet „sichere Videokonferenz“?
+Halten Sie für jedes Szenario fest, welche Inhalte vorkommen dürfen, welche Funktionen nötig sind und welche Mindestanforderungen nicht verhandelbar sind. Erst damit bekommt der Begriff „sichere Videokonferenz“ eine prüfbare Bedeutung.
 
-Sicherheit umfasst mehrere Ebenen: den Schutz der Verbindung, die Identität der Teilnehmenden, die Konfiguration des Meetings, den Umgang mit Aufzeichnungen und Metadaten sowie die technische und rechtliche Kontrolle über den Dienst. Datenschutz und Informationssicherheit überschneiden sich, sind aber nicht dasselbe. Ein Dienst kann beispielsweise starke Transportverschlüsselung bieten und trotzdem durch lange Aufbewahrungsfristen oder unklare Unterauftragnehmer ein ungeeignetes Profil für einen sensiblen Anwendungsfall haben.
+## 1. Schutzbedarf konkret statt pauschal beschreiben
 
-Als belastbare Ausgangspunkte dienen unter anderem Art. 28 DSGVO und die dazugehörigen Leitlinien des Europäischen Datenschutzausschusses. Für Cloud-Dienste stellt das BSI mit C5 einen Kriterienkatalog zur Bewertung von Sicherheitskontrollen bereit. Diese Quellen sind Prüfmaßstäbe und keine pauschale Bestätigung eines bestimmten Anbieters.
+„Unsere Meetings sind vertraulich“ reicht als Anforderung nicht aus. Erfassen Sie, welche Daten tatsächlich entstehen: Namen und Kontaktdaten, Audio und Video, geteilte Bildschirme, Chatnachrichten, Dateien, Anwesenheitslisten, technische Protokolle oder Aufzeichnungen. Fragen Sie anschließend, welche Folgen Verlust, Offenlegung, Veränderung oder Nichtverfügbarkeit hätten.
 
-## Die 10 Prüfkriterien für eine sichere Videokonferenz
+**Entscheidungssituation:** Darf ein Bewerbungsgespräch über dieselbe Standardkonfiguration laufen wie das wöchentliche Teammeeting? Wenn nein, braucht es getrennte Meetingprofile oder eine klare organisatorische Regel.
 
-### 1. Schutzbedarf und Datenarten festlegen
+**Nachweis:** Dokumentierte Schutzbedarfsstufen und je Stufe zugelassene Funktionen.
 
-Beginne mit dem Anwendungsfall: Werden nur Namen und Bild übertragen oder auch Gesprächsinhalte, Bildschirmdaten, Dateien und Aufzeichnungen? Ordne die Szenarien nach Schutzbedarf. Lege zusätzlich fest, was nicht über die Plattform laufen darf. So wird aus „sicher“ eine konkrete Anforderung, die sich später testen lässt.
+## 2. Verschlüsselung bis ins Detail hinterfragen
 
-**Prüffrage:** Welche Daten werden live, temporär oder dauerhaft verarbeitet – und welches Schadensbild hätte ein Verlust?
+Die Aussage „Daten werden verschlüsselt“ lässt offen, wo eine Entschlüsselung möglich ist. Lassen Sie sich getrennt erläutern, wie Audio, Video, Chat, Dateien und Aufzeichnungen geschützt werden – während der Übertragung und bei der Speicherung. Bei Ende-zu-Ende-Verschlüsselung sollte außerdem klar sein, welche Endpunkte Schlüssel besitzen und welche Komfortfunktionen dadurch entfallen.
 
-### 2. Verschlüsselung präzise beschreiben
+**Entscheidungssituation:** Eine Rechtsabteilung benötigt maximale Vertraulichkeit, zugleich aber serverseitige Aufzeichnungen. Beides kann sich technisch widersprechen. Die Organisation muss entscheiden, welche Funktion Vorrang hat, statt sich auf ein allgemeines Sicherheitsversprechen zu verlassen.
 
-„Verschlüsselt“ ist keine ausreichende Produktangabe. Prüfe, ob die Verbindung zwischen Endgerät und Dienst geschützt ist, wie Medienströme verschlüsselt werden und ob Schlüsselverwaltung, Protokolle und Ausnahmen dokumentiert sind. Ende-zu-Ende-Verschlüsselung kann je nach Funktionsumfang Einschränkungen bei Aufzeichnung, Transkription oder Einwahl bedeuten. Sie sollte deshalb passend zum Schutzbedarf bewertet werden.
+**Nachweis:** Aktuelle technische Dokumentation zu Protokollen, Schlüsselverwaltung und funktionalen Ausnahmen.
 
-**Prüffrage:** Welche Verschlüsselung gilt für Audio, Video, Chat, Dateien und Aufzeichnungen – und welche Funktionen sind davon ausgenommen?
+## 3. Einlass und Identitäten beherrschbar machen
 
-### 3. Identität, Rollen und Einlass kontrollieren
+Viele Vorfälle beginnen nicht mit einem Angriff auf Kryptografie, sondern mit einer weitergeleiteten Einladung, einem falsch konfigurierten Gastzugang oder zu weitreichenden Rollen. Prüfen Sie Mehrfaktor-Authentisierung, Single Sign-on, Wartebereich, Rollenmodell und zentrale Kontensperrung. Gastzugänge sollten möglich sein, aber nicht unbemerkt dieselben Rechte wie interne Teilnehmende erhalten.
 
-Eine sichere Videokonferenz braucht verlässliche Konten- und Rollenmodelle. Sinnvolle Kontrollen sind beispielsweise Single Sign-on, Mehrfaktor-Authentisierung, rollenbasierte Rechte, ein kontrollierter Warteraum und die Möglichkeit, Teilnehmende zu entfernen oder den Raum zu sperren. Gastzugänge sollten bewusst konfiguriert und regelmäßig überprüft werden.
+**Entscheidungssituation:** Ein externer Dienstleister nimmt regelmäßig teil, darf jedoch weder weitere Personen einladen noch Dateien herunterladen. Lässt sich das technisch als Rolle abbilden?
 
-**Prüffrage:** Können Verantwortliche Einladungen, Rollen, Einlass, Moderation und Konten zentral steuern?
+**Nachweis:** Rollen- und Rechtekonzept plus Test mit internen, externen und anonymen Zugängen.
 
-### 4. Meeting-Einstellungen sicher voreinstellen
+## 4. Sichere Voreinstellungen erzwingen
 
-Sicherheit darf nicht davon abhängen, dass jede moderierende Person alle Optionen kennt. Prüfe sichere Standardwerte für Lobby, Bildschirmfreigabe, Chat, Dateiversand, externe Teilnehmende und automatische Aufzeichnung. Änderungen an den Voreinstellungen sollten nachvollziehbar sein.
+Ein System ist im Alltag nur so sicher wie seine Standardkonfiguration. Wenn jede moderierende Person Bildschirmfreigabe, Aufzeichnung, Chat, Lobby und Gastrechte selbst richtig setzen muss, entstehen vorhersehbare Lücken. Gute Verwaltungsfunktionen machen sichere Einstellungen zur Regel und begründete Ausnahmen sichtbar.
 
-**Prüffrage:** Welche riskanten Funktionen sind standardmäßig deaktiviert, und lassen sich Richtlinien technisch erzwingen?
+**Entscheidungssituation:** Eine neue Kollegin eröffnet ihr erstes sensibles Meeting. Greifen automatisch die Vorgaben der Organisation – oder entscheidet ihre persönliche Kenntnis über das Schutzniveau?
 
-### 5. Aufzeichnungen, Transkripte und Metadaten begrenzen
+**Nachweis:** Exportierbare Administrationsrichtlinien, Änderungsprotokolle und dokumentierter Ausnahmeprozess.
 
-Aufzeichnungen, Untertitel, Transkripte, Chatverläufe und Nutzungsprotokolle können personenbezogene oder vertrauliche Informationen enthalten. Kläre Zweck, Rechtsgrundlage, Speicherort, Zugriff, Löschung und Export. Eine automatische Aufzeichnung ist nicht automatisch erforderlich, nur weil sie technisch möglich ist.
+## 5. Aufzeichnungen und Nebenprodukte begrenzen
 
-**Prüffrage:** Welche Artefakte entstehen, wer sieht sie, wie lange bleiben sie erhalten und wie wird die Löschung nachgewiesen?
+Das eigentliche Gespräch ist nur ein Teil der Datenverarbeitung. Untertitel, Transkripte, Chatverläufe, Vorschaubilder, Anwesenheitsdaten und Diagnoseprotokolle können länger bestehen als erwartet. Klären Sie für jedes Artefakt Zweck, Speicherort, Zugriffsrechte, Löschfrist und Exportmöglichkeit. „Standardmäßig aktiviert“ ist keine Begründung für eine Speicherung.
 
-### 6. Hosting, Speicherorte und Datenflüsse prüfen
+**Entscheidungssituation:** Ein Team möchte automatische Zusammenfassungen nutzen. Dürfen dafür Gesprächsinhalte an einen zusätzlichen Dienst fließen, und wissen Teilnehmende, wann die Funktion aktiv ist?
 
-Der Standort eines Rechenzentrums ist nur ein Teil der Bewertung. Prüfe Verarbeitungsorte für Live-Medien, Kontodaten, Support, Backups und Protokolle sowie mögliche Zugriffe aus anderen Rechtsräumen. Fordere eine verständliche Datenflussbeschreibung und eine aktuelle Liste der Unterauftragnehmer an. Bei internationalen Übermittlungen müssen die passenden rechtlichen und technischen Schutzmaßnahmen geprüft werden.
+**Nachweis:** Vollständiges Verzeichnis erzeugter Datenarten mit Aufbewahrungs- und Löschregeln.
 
-**Prüffrage:** Sind alle relevanten Datenflüsse, Speicherorte, Unterauftragnehmer und Zugriffsmöglichkeiten dokumentiert?
+## 6. Hosting und Datenflüsse gemeinsam prüfen
 
-### 7. Vertragliche Datenschutzgarantien sichern
+Ein Rechenzentrum in Deutschland oder der EU kann wichtig sein, beantwortet aber nicht alle Fragen. Supportzugriffe, Backups, Telemetrie, Authentisierung oder Unterauftragnehmer können weitere Länder und Rechtsräume einbeziehen. Fordern Sie deshalb ein verständliches Datenflussbild an, das den realen Betrieb abdeckt – nicht nur den Medienserver.
 
-Wenn ein Dienst personenbezogene Daten im Auftrag verarbeitet, ist ein Vertrag nach Art. 28 DSGVO ein zentraler Prüfpunkt. Er sollte unter anderem Gegenstand und Dauer, Datenarten, Weisungen, Vertraulichkeit, Sicherheitsmaßnahmen, Unterstützung bei Betroffenenrechten, Löschung oder Rückgabe sowie Kontrollrechte abbilden. Die EDPB-Leitlinien erläutern die Rollen von Verantwortlichem und Auftragsverarbeiter.
+**Entscheidungssituation:** Audio und Video bleiben in Deutschland, Kontodaten und Supporttickets werden jedoch global verarbeitet. Passt dieses Gesamtbild noch zum Schutzbedarf und zu den vertraglichen Vorgaben?
 
-**Prüffrage:** Sind Rollen, Weisungsbindung, Sicherheitsmaßnahmen, Unterauftragnehmer und Audit- bzw. Nachweismöglichkeiten vertraglich geklärt?
+**Nachweis:** Datenflussübersicht, aktuelle Liste der Unterauftragnehmer und benannte Speicher- sowie Zugrifforte.
 
-### 8. Transparenz und unabhängige Nachweise bewerten
+## 7. Vertragliche Rollen sauber festlegen
 
-Sicherheitsversprechen werden belastbarer, wenn sie durch aktuelle, passende Nachweise ergänzt werden: Prüfberichte, Zertifizierungen, Sicherheitskonzept, Schwachstellenprozess oder dokumentierte Verfügbarkeits- und Wiederanlaufverfahren. Achte auf Geltungsbereich, Prüfzeitraum und Ausnahmen. Ein Testat ist kein Freifahrtschein und fehlende Zertifizierung allein kein Beweis für Unsicherheit.
+Technische Kontrollen brauchen ein vertragliches Gegenstück. Werden personenbezogene Daten im Auftrag verarbeitet, sind insbesondere die Anforderungen aus [Artikel 28 DSGVO](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0679) relevant. Prüfen Sie unter anderem Weisungsbindung, Vertraulichkeit, technische und organisatorische Maßnahmen, Unterauftragnehmer, Unterstützungspflichten, Kontrollrechte sowie Löschung oder Rückgabe nach Vertragsende.
 
-**Prüffrage:** Welcher Nachweis deckt genau den Dienst, die Region und den Zeitraum unseres Einsatzes ab?
+**Entscheidungssituation:** Der Anbieter ändert einen Unterauftragnehmer. Wird Ihre Organisation rechtzeitig informiert, kann sie widersprechen und kennt sie die Folgen eines Widerspruchs?
 
-### 9. Betrieb, Updates und Vorfälle organisieren
+**Nachweis:** Geprüfter Auftragsverarbeitungsvertrag samt Anlagen, Änderungsverfahren und Verantwortlichkeiten.
 
-Prüfe, wie Sicherheitsupdates, Schwachstellenmeldungen, Notfälle und Datenschutzverletzungen behandelt werden. Wichtig sind erreichbare Kontaktstellen, Eskalationswege, Protokollierung und ein definierter Wiederanlauf. Für Organisationen mit erhöhtem Schutzbedarf gehören Übungen und regelmäßige Überprüfungen in den Betrieb.
+## 8. Nachweise auf Geltungsbereich und Aktualität prüfen
 
-**Prüffrage:** Wer informiert uns wann über Schwachstellen, Ausfälle, Änderungen und Sicherheitsvorfälle?
+Zertifikate, Testate und Prüfberichte sind hilfreich, aber nie selbsterklärend. Entscheidend ist, ob der konkrete Dienst, die gewählte Betriebsregion und der aktuelle Zeitraum abgedeckt sind. Für Cloud-Dienste bietet der [BSI-Kriterienkatalog C5](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Informationen-und-Empfehlungen/Empfehlungen-nach-Angriffszielen/Cloud-Computing/Kriterienkatalog-C5/C5_Archiv/C5_Archiv.html) einen strukturierten Bezugspunkt für Sicherheitskontrollen. Ein Nachweis ersetzt trotzdem nicht die Bewertung des eigenen Einsatzes.
 
-### 10. Exit, Portabilität und digitale Souveränität planen
+**Entscheidungssituation:** Ein Anbieter wirbt mit einer Zertifizierung, doch der betrachtete Konferenzdienst ist im Geltungsbereich nicht genannt. Ist der Nachweis dann für Ihre Entscheidung belastbar?
 
-Digitale Souveränität zeigt sich nicht nur in einem europäischen Hostingstandort. Sie umfasst auch Transparenz, beherrschbare Abhängigkeiten, offene Schnittstellen, Administrierbarkeit, Datenportabilität und einen realistischen Wechsel- oder Notfallplan. Prüfe, ob Konten, Konfigurationen, Aufzeichnungen und Protokolle in einem nutzbaren Format exportiert und anschließend nachweisbar gelöscht werden können.
+**Nachweis:** Vollständiger Bericht oder Zertifikat mit Scope, Zeitraum, Abweichungen und Bezug zur gebuchten Leistung.
 
-**Prüffrage:** Können wir den Dienst kontrolliert verlassen, ohne Daten, Betriebswissen oder Handlungsfähigkeit zu verlieren?
+## 9. Vorfälle und Ausfälle im Betrieb durchspielen
 
-## Entscheidungsmatrix für den Vergleich
+Sicherheit zeigt sich, wenn etwas schiefgeht. Legen Sie fest, wie Schwachstellen, Datenschutzverletzungen und Ausfälle gemeldet werden, welche Protokolle verfügbar sind und wer auf beiden Seiten entscheidet. Testen Sie auch den Ausfall von Single Sign-on, Netzwerkverbindungen oder einzelnen Endgeräten. Eine Notfallnummer hilft nur, wenn sie im Ernstfall bekannt und erreichbar ist.
 
-Bewerte jedes Kriterium mit 0 bis 3 Punkten:
+**Entscheidungssituation:** Während einer vertraulichen Sitzung erscheint ein unbekannter Teilnehmer. Kann die Moderation ihn sofort entfernen, den Raum sperren, Beweise sichern und den Vorfall intern melden?
 
-| Punktzahl | Bedeutung |
-|---:|---|
-| 0 | nicht belegt oder für den Anwendungsfall nicht akzeptabel |
-| 1 | teilweise belegt; erhebliche organisatorische Kompensation nötig |
-| 2 | geeignet; einzelne Nachweise oder Kontrollen müssen nachgezogen werden |
-| 3 | klar belegt, getestet und im Betrieb verankert |
+**Nachweis:** Melde- und Eskalationswege, zugesagte Reaktionszeiten, Protokollzugang und Ergebnis einer praktischen Übung.
 
-**Gewichtung:** Kriterien 1, 2, 3, 4 und 6 jeweils ×2; Kriterien 5, 7, 8, 9 und 10 jeweils ×1. Maximal sind 45 Punkte erreichbar. Zusätzlich gilt: Ein fehlender Mindestnachweis bei Schutzbedarf, Verschlüsselung, Zugriffskontrolle oder Datenflüssen ist ein K.-o.-Punkt, unabhängig von der Summe.
+## 10. Digitale Souveränität am Exit testen
 
-| Ergebnis | Entscheidungshinweis |
-|---:|---|
-| 36–45 | für den geprüften Anwendungsfall gut begründet; Restrisiken dokumentieren |
-| 25–35 | nur mit Maßnahmenplan, Verantwortlichen und Frist einsetzen |
-| 0–24 | nicht ausreichend belegt; Alternativen oder Nachbesserung prüfen |
+Digitale Souveränität bedeutet Handlungsfähigkeit: Einstellungen verstehen, Zugriffe steuern, Daten exportieren und den Dienst wechseln können. Fragen Sie nicht erst zum Vertragsende nach Formaten, Fristen und Löschbestätigungen. Berücksichtigen Sie außerdem offene Schnittstellen, Administrierbarkeit, Abhängigkeiten von einzelnen Identitäts- oder Zusatzdiensten und einen möglichen Notbetrieb.
 
-Die Schwellenwerte sind eine redaktionelle Orientierung, keine gesetzliche Klassifizierung. Dokumentiere je Punkt die Quelle, das Prüfdatum, offene Fragen und die zuständige Person. Wiederhole die Prüfung bei wesentlichen Änderungen am Dienst oder am Schutzbedarf.
+**Entscheidungssituation:** Der Vertrag endet in vier Wochen. Können Konten, Konfigurationen, Aufzeichnungen und Protokolle vollständig exportiert werden, und ist die anschließende Löschung überprüfbar?
 
-## Sichere Videokonferenz in der Praxis einführen
+**Nachweis:** Getesteter Exit-Plan mit Formaten, Verantwortlichen, Zeitbedarf, Kosten und Löschverfahren.
 
-Leite aus der Matrix eine kurze Betriebsrichtlinie ab: zugelassene Szenarien, sichere Meeting-Voreinstellungen, Rollen der Moderation, Regeln für Aufzeichnungen und Meldewege. Ergänze einen Testtermin mit realistischen Geräten und Netzen. Prüfe dabei auch Barrierefreiheit, Einwahl, Gastzugang und den Ausfall einzelner Komponenten. Technik, Vertrag und Organisation müssen zusammenpassen.
+## Entscheidungsmatrix: von Antworten zu einer belastbaren Auswahl
 
-Für die konkrete Anbieterprüfung können die Meetling-Seiten [Sicherheit](/sicherheit), [Lösungen für Behörden](/loesungen/behoerden), [Lösungen für Unternehmen](/loesungen/unternehmen), die [hochsichere Telefoneinwahl](/funktionen/teamwork-tools/hochsichere-telefoneinwahl) und [Preise](/preise) als interne Anlaufstellen dienen. Die jeweiligen Aussagen und Konditionen sind vor einer Entscheidung direkt auf den verlinkten Seiten zu prüfen.
+Bewerten Sie nicht nur, ob ein Anbieter eine Funktion nennt, sondern wie gut die Aussage belegt ist:
 
-## FAQ: Sichere Videokonferenz
+| Wert | Bewertung | Konsequenz |
+|---:|---|---|
+| 0 | nicht beantwortet oder ungeeignet | Ausschluss oder verbindliche Nachbesserung |
+| 1 | nur behauptet, unvollständig oder veraltet | offenen Nachweis mit Termin einfordern |
+| 2 | dokumentiert und für das Szenario grundsätzlich passend | Restrisiko und betriebliche Maßnahme festhalten |
+| 3 | dokumentiert, vertraglich abgesichert und praktisch getestet | als belastbaren Erfüllungsnachweis werten |
+
+Gewichten Sie die Kriterien nach Ihrem Szenario. Für ein vertrauliches Personalgespräch können Verschlüsselung, Identitäten und Aufzeichnungen besonders schwer wiegen; für eine öffentliche Veranstaltung eher Verfügbarkeit, Moderation und skalierbarer Gastzugang. Definieren Sie zusätzlich K.-o.-Kriterien. Eine hohe Gesamtsumme darf einen fehlenden Pflichtnachweis nicht verdecken.
+
+Eine kompakte Arbeitsmatrix kann so aussehen:
+
+| Kriterium | Gewicht | Anbieter A | Anbieter B | Beleg / offene Frage | Verantwortlich bis |
+|---|---:|---:|---:|---|---|
+| Verschlüsselung | 3 |  |  |  |  |
+| Identitäten & Einlass | 3 |  |  |  |  |
+| Voreinstellungen | 2 |  |  |  |  |
+| Aufzeichnungen | 2 |  |  |  |  |
+| Hosting & Datenflüsse | 3 |  |  |  |  |
+| Vertrag & Nachweise | 3 |  |  |  |  |
+| Betrieb & Exit | 2 |  |  |  |  |
+
+Die leeren Felder sind Absicht: Eine Bewertung ohne Quelle, Prüfdatum und verantwortliche Person ist nur ein Eindruck.
+
+## Vom Anbietercheck zur sicheren Nutzung
+
+Nach der Auswahl beginnt die eigentliche Arbeit. Übersetzen Sie die Ergebnisse in wenige verständliche Regeln: Welche Meetingprofile gibt es? Wer darf aufzeichnen? Wie werden Gäste eingeladen? Wohin werden Vorfälle gemeldet? Wiederholen Sie die Prüfung, wenn sich Funktionen, Unterauftragnehmer, Datenflüsse oder der eigene Schutzbedarf ändern.
+
+Meetling beschreibt seine Sicherheitsarchitektur und Betriebsoptionen auf der Seite [Sicherheit](/sicherheit). Für unterschiedliche Einsatzkontexte gibt es gesonderte Informationen für [Behörden](/loesungen/behoerden) und [Unternehmen](/loesungen/unternehmen). Wenn klassische Telefonzugänge Teil des Notfall- oder Barrierefreiheitskonzepts sind, lohnt sich außerdem ein Blick auf die [hochsichere Telefoneinwahl](/funktionen/teamwork-tools/hochsichere-telefoneinwahl). Leistungsumfang und wirtschaftlichen Rahmen sollten Verantwortliche abschließend anhand der [Preise](/preise) und eines konkreten Angebots prüfen.
+
+Diese Seiten liefern Antworten für die Anbieterprüfung. Die zehn Kriterien bleiben dennoch dieselben: Sicherheitsversprechen werden erst dann entscheidungsreif, wenn sie zum eigenen Szenario passen, belegt und im Alltag getestet sind.
+
+## Häufige Fragen zur sicheren Videokonferenz
 
 ### Ist eine Videokonferenz mit Passwort automatisch sicher?
 
-Nein. Ein Passwort ist nur eine einzelne Zugangskontrolle. Zusätzlich zählen Identität, Einlass, Rollen, sichere Voreinstellungen, Verschlüsselung, Aufzeichnungsregeln, Datenflüsse und der laufende Betrieb.
+Nein. Ein Passwort schützt nur einen Teil des Zugangs. Ebenso wichtig sind Identitätsprüfung, Rollen, Wartebereich, sichere Voreinstellungen, Verschlüsselung, Datenflüsse, Löschregeln und der Umgang mit Vorfällen.
 
-### Ist europäisches Hosting ein ausreichendes Sicherheitskriterium?
+### Ist Hosting in Deutschland oder der EU ausreichend?
 
-Nein. Der Standort kann für Datenschutz und Souveränität relevant sein, beantwortet aber nicht allein Fragen zu Verschlüsselung, Zugriffen, Unterauftragnehmern, Backups oder Support. Bewerte den vollständigen Datenfluss und die rechtlichen Rahmenbedingungen.
+Der Hostingstandort ist ein wichtiger Prüfpunkt, aber kein Gesamturteil. Zusätzlich zählen Support- und Administrationszugriffe, Backups, Telemetrie, Unterauftragnehmer, Verschlüsselung sowie die vertragliche Ausgestaltung.
 
-### Braucht jede Organisation Ende-zu-Ende-Verschlüsselung?
+### Braucht jede sichere Videokonferenz Ende-zu-Ende-Verschlüsselung?
 
-Das hängt vom Schutzbedarf und den benötigten Funktionen ab. Ende-zu-Ende-Verschlüsselung kann den Schutz erhöhen, aber bestimmte Funktionen einschränken. Entscheidend ist eine dokumentierte, passende Risikoabwägung statt eines pauschalen Labels.
+Das hängt vom Schutzbedarf und den benötigten Funktionen ab. Ende-zu-Ende-Verschlüsselung kann das Schutzniveau erhöhen, zugleich aber serverseitige Aufzeichnung oder bestimmte Komfortfunktionen ausschließen. Die Entscheidung sollte dokumentiert und szenariobezogen sein.
 
-### Was sollte in einem Auftragsverarbeitungsvertrag stehen?
+### Wie oft sollte ein Videokonferenzdienst neu geprüft werden?
 
-Mindestens sollten Gegenstand und Dauer, Zweck, Datenarten, Weisungen, Vertraulichkeit, technische und organisatorische Maßnahmen, Unterauftragnehmer, Unterstützungspflichten, Kontrollrechte sowie Löschung oder Rückgabe geregelt sein. Die konkrete Vereinbarung sollte rechtlich geprüft werden.
+Immer bei wesentlichen Änderungen an Funktionen, Datenflüssen, Unterauftragnehmern oder Schutzbedarf. Zusätzlich empfiehlt sich ein fester regelmäßiger Review-Zyklus, dessen Häufigkeit sich am Risiko orientiert.
 
-### Wie oft sollte die Checkliste aktualisiert werden?
+### Was ist das wichtigste Ergebnis der Prüfung?
 
-Mindestens bei wesentlichen Änderungen an Dienst, Hosting, Unterauftragnehmern, Funktionen oder Schutzbedarf. Zusätzlich ist eine regelmäßige Überprüfung sinnvoll, etwa im Rahmen des Informationssicherheits- oder Datenschutzmanagements.
-
-## FAQ-/Schema-Empfehlung
-
-Die FAQ eignet sich für sichtbare FAQPage-Inhalte. Vor Veröffentlichung sollte das Redaktionsteam prüfen, ob die aktuellen Google-Richtlinien für FAQPage-Markup und die Voraussetzungen der Website erfüllt sind. Falls ja, kann die sichtbare FAQ 1:1 als JSON-LD vom Typ `FAQPage` mit `Question` und `Answer` ausgezeichnet werden. Keine zusätzlichen, unsichtbaren Fragen ergänzen; Markup und sichtbarer Inhalt müssen identisch bleiben. Vor dem Deployment mit dem Rich-Results-Test validieren.
-
-## Quellen
-
-- [EUR-Lex: Verordnung (EU) 2016/679, insbesondere Artikel 28](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0679) – Auftragsverarbeitung und Garantien.
-- [EDPB: Guidelines 07/2020 zu Verantwortlichem und Auftragsverarbeiter](https://www.edpb.europa.eu/documents/guideline/guidelines-072020-on-the-concepts-of-controller-and-processor-in-the-gdpr_en) – Rollen und Pflichten nach DSGVO.
-- [BSI: C5-Archiv und Versionen](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Informationen-und-Empfehlungen/Empfehlungen-nach-Angriffszielen/Cloud-Computing/Kriterienkatalog-C5/C5_Archiv/C5_Archiv.html) – Kriterienkatalog zur Bewertung von Cloud-Sicherheitskontrollen.
-- [ENISA: Security & Resilience in Governmental Clouds](https://www.enisa.europa.eu/sites/default/files/publications/Security%20%26%20Resilience%20in%20Governmental%20Clouds_ENISA.pdf) – Hinweise zu Datenhoheit, Rechtsräumen und ausgelagerten Cloud-Diensten.
-
-## Linkprüfprotokoll für MEEA-62-R1.0
-
-Prüfdatum: 04.09.2026 · Methode: HTTP(S)-Abruf mit Weiterleitungsauflösung · Ergebnis: alle Ziele erreichbar.
-
-| Linkziel | Verwendung | Ergebnis / Status | Erreichbares Ziel |
-|---|---|---:|---|
-| https://meetling.de/sicherheit | interne Anbieterprüfung | 200 | unverändert |
-| https://meetling.de/loesungen/behoerden | interne Zielgruppe Behörden | 200 | unverändert |
-| https://meetling.de/loesungen/unternehmen | interne Zielgruppe Unternehmen | 200 | unverändert |
-| https://meetling.de/funktionen/teamwork-tools/hochsichere-telefoneinwahl | interne Einwahlfunktion | 200 | unverändert |
-| https://meetling.de/preise | interne kommerzielle Prüfung | 200 | unverändert |
-| https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0679 | Quelle DSGVO Art. 28 | 202 | unverändert |
-| https://www.edpb.europa.eu/documents/guideline/guidelines-072020-on-the-concepts-of-controller-and-processor-in-the-gdpr_en | Quelle EDPB | 200 | unverändert |
-| https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Informationen-und-Empfehlungen/Empfehlungen-nach-Angriffszielen/Cloud-Computing/Kriterienkatalog-C5/C5_Archiv/C5_Archiv.html | Quelle BSI C5 | 200 | unverändert |
-| https://www.enisa.europa.eu/sites/default/files/publications/Security%20%26%20Resilience%20in%20Governmental%20Clouds_ENISA.pdf | Quelle ENISA | 200 | unverändert |
-
-## Bildreview und gemeinsame Revision
-
-**Datei:** `MEEA-62-R1.0-header-sichere-videokonferenz.png`  
-**Bildstil:** ruhige, hochwertige redaktionelle 16:9-Illustration; rechts Meetingdisplay mit abstrakter Schutz-/Netzwerkgeometrie und Rechenzentrumsumgebung, links ausreichend Negativraum für die Überschrift.  
-**Review:** Motiv, Komposition, Lesbarkeit ohne Bildtext, fehlende Marken/Wasserzeichen und Einsatz als Header geprüft; Bilddatei am Ticket angehängt und Download nach Upload erneut geprüft.  
-**Revisionsbindung:** Textrevision MEEA-62-R1.0, Linkprüfprotokoll vom 04.09.2026 und Bilddatei MEEA-62-R1.0 bilden gemeinsam den zur Prüfung vorgelegten Stand. Jede spätere Änderung erzeugt eine neue Revision und invalidiert Freigaben.
-
-## Übergabestatus
-
-Status: **bereit für SEO Strategy & Analytics und CEO zur Doppel-Freigabe**.  
-Noch nicht veröffentlicht, nicht in Git übertragen und nicht geschlossen. Beide Freigaben müssen sich ausdrücklich auf **MEEA-62-R1.0** beziehen.
+Nicht die Punktzahl allein, sondern eine nachvollziehbare Entscheidung: zugelassene Szenarien, erfüllte Mindestanforderungen, belegte Restrisiken, verantwortliche Personen und konkrete Fristen für offene Maßnahmen.
