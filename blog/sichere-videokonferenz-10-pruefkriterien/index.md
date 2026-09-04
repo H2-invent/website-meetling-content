@@ -2,7 +2,7 @@
 title: "Sichere Videokonferenz: 10 Prüfkriterien | Meetling"
 description: "Sichere Videokonferenz auswählen: 10 konkrete Prüfkriterien für Datenschutz, Hosting, Verschlüsselung und digitale Souveränität – inklusive Entscheidungsmatrix."
 date: 2026-09-04
-tags: ["sichere-videokonferenz"]
+tags: ["sichere-videokonferenz", "On Prem Videokonferenz", "Verschlüsselung", "KI-Generiert"]
 image: ./MEEA-62-R2.0-header-sichere-videokonferenz.png
 imageAlt: "Abstrakte Illustration einer sicheren Videokonferenz mit Meetingdisplay und Rechenzentrumsumgebung"
 author: "meetling Team"
