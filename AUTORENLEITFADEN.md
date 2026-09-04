@@ -91,6 +91,18 @@ Im Zweifel die Aussage weglassen oder vorher rückfragen.
 
 Entwurf als Branch, dann Pull Request. Veröffentlicht wird durch **Merge** — einen gesonderten Entwurfsstatus gibt es nicht, und ein Datum in der Zukunft hält nichts zurück.
 
+### Verbindliches Abschluss-Gate für Redaktionsaufgaben
+
+Eine Redaktionsaufgabe ist nicht bereits mit einem fertigen Entwurf oder einer internen SEO-Freigabe abgeschlossen. Der Workflow endet immer mit einem prüfbaren Pull Request:
+
+1. Vor Arbeitsbeginn muss das Content-Repository als Ziel-Repository am Projekt hinterlegt und ausgecheckt sein. Fehlt Repository oder Git-Remote, ist das ein Blocker und kein nicht-blockierender Restpunkt.
+2. Der Beitrag wird im verbindlichen Format unter `blog/<slug>/index.md` einschließlich Headerbild angelegt.
+3. `scripts/validate-content.sh` muss erfolgreich durchlaufen.
+4. Branch und Commit werden zu GitHub gepusht; anschließend wird ein Pull Request gegen `main` geöffnet.
+5. Der zugehörige Vorgang wechselt erst mit verlinktem, offenem Pull Request in **Review**. **Done** ist erst nach Merge beziehungsweise ausdrücklicher Entscheidung, den Pull Request ohne Merge zu schließen, zulässig.
+
+Kann kein Pull Request erstellt werden, bleibt der Vorgang **blockiert**. Der Kommentar nennt den fehlenden Zugriff oder die fehlende Repository-Zuordnung sowie eine konkrete verantwortliche Person für die Entsperrung.
+
 Nach dem Merge baut die Website sich neu; nach wenigen Minuten ist der Beitrag live. Schlägt der Build fehl, steht in der GitHub Action, welche Datei und welches Feld das Problem sind — der Beitrag geht dann nicht halbfertig online, sondern gar nicht.
 
 Bei einer inhaltlichen Überarbeitung `updated` setzen. Das Datum erscheint auf der Seite und als Aktualisierungssignal in der Sitemap. Für Tippfehler lohnt es nicht.
