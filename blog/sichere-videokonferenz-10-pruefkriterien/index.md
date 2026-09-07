@@ -1,11 +1,11 @@
 ---
-title: "Sichere Videokonferenz: 10 Prüfkriterien | Meetling"
-description: "Sichere Videokonferenz auswählen: 10 konkrete Prüfkriterien für Datenschutz, Hosting, Verschlüsselung und digitale Souveränität – inklusive Entscheidungsmatrix."
-date: 2026-09-04
-tags: ["sichere-videokonferenz"]
-image: ./MEEA-62-R2.0-header-sichere-videokonferenz.png
-imageAlt: "Abstrakte Illustration einer sicheren Videokonferenz mit Meetingdisplay und Rechenzentrumsumgebung"
-author: "meetling Team"
+title: "Sichere Videokonferenz: 10 Prüfkriterien für eine belastbare Entscheidung"
+description: "Sichere Videokonferenz auswählen: 10 prüfbare Kriterien zu Datenschutz, Verschlüsselung, Hosting, Admin-Kontrolle und digitaler Souveränität – mit Entscheidungsmatrix."
+date: 2026-09-07
+tags:
+  - Sichere Videokonferenz
+  - Datenschutz
+  - KI-Generiert
 ---
 
 # Sichere Videokonferenz: 10 Prüfkriterien für eine belastbare Entscheidung
@@ -76,7 +76,7 @@ Ein Rechenzentrum in Deutschland oder der EU kann wichtig sein, beantwortet aber
 
 ## 7. Vertragliche Rollen sauber festlegen
 
-Technische Kontrollen brauchen ein vertragliches Gegenstück. Werden personenbezogene Daten im Auftrag verarbeitet, sind insbesondere die Anforderungen aus [Artikel 28 DSGVO](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0679) relevant. Prüfen Sie unter anderem Weisungsbindung, Vertraulichkeit, technische und organisatorische Maßnahmen, Unterauftragnehmer, Unterstützungspflichten, Kontrollrechte sowie Löschung oder Rückgabe nach Vertragsende.
+Technische Kontrollen brauchen ein vertragliches Gegenstück. Werden personenbezogene Daten im Auftrag verarbeitet, sind insbesondere die Anforderungen aus [Artikel 28 DSGVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32016R0679) relevant. Prüfen Sie unter anderem Weisungsbindung, Vertraulichkeit, technische und organisatorische Maßnahmen, Unterauftragnehmer, Unterstützungspflichten, Kontrollrechte sowie Löschung oder Rückgabe nach Vertragsende.
 
 **Entscheidungssituation:** Der Anbieter ändert einen Unterauftragnehmer. Wird Ihre Organisation rechtzeitig informiert, kann sie widersprechen und kennt sie die Folgen eines Widerspruchs?
 
@@ -84,7 +84,7 @@ Technische Kontrollen brauchen ein vertragliches Gegenstück. Werden personenbez
 
 ## 8. Nachweise auf Geltungsbereich und Aktualität prüfen
 
-Zertifikate, Testate und Prüfberichte sind hilfreich, aber nie selbsterklärend. Entscheidend ist, ob der konkrete Dienst, die gewählte Betriebsregion und der aktuelle Zeitraum abgedeckt sind. Für Cloud-Dienste bietet der [BSI-Kriterienkatalog C5](https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Informationen-und-Empfehlungen/Empfehlungen-nach-Angriffszielen/Cloud-Computing/Kriterienkatalog-C5/C5_Archiv/C5_Archiv.html) einen strukturierten Bezugspunkt für Sicherheitskontrollen. Ein Nachweis ersetzt trotzdem nicht die Bewertung des eigenen Einsatzes.
+Zertifikate, Testate und Prüfberichte sind hilfreich, aber nie selbsterklärend. Entscheidend ist, ob der konkrete Dienst, die gewählte Betriebsregion und der aktuelle Zeitraum abgedeckt sind. Für Cloud-Dienste bietet der [BSI-Kriterienkatalog C5](https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Publikationen/Broschueren/C5_2020.pdf?__blob=publicationFile&v=3) einen strukturierten Bezugspunkt für Sicherheitskontrollen. Ein Nachweis ersetzt trotzdem nicht die Bewertung des eigenen Einsatzes.
 
 **Entscheidungssituation:** Ein Anbieter wirbt mit einer Zertifizierung, doch der betrachtete Konferenzdienst ist im Geltungsbereich nicht genannt. Ist der Nachweis dann für Ihre Entscheidung belastbar?
 
