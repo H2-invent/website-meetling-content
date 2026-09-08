@@ -5,8 +5,8 @@ date: 2026-09-03
 tags: ["Open Source", "Eigenbetrieb", "KI-Generiert"]
 image: ./videokonferenz-selbst-hosten-infrastruktur.webp
 imageAlt: "Technische Komponenten und Betriebsaufgaben einer selbst gehosteten Videokonferenz"
-author: "Meetling Team"
-related: ["/sicherheit", "/blog/saas-oder-on-premise-videokonferenz", "/preise"]
+author: "Emanuel Holzmann"
+related: ["/sicherheit", "/blog/open-source-videokonferenz-digitale-souveraenitaet", "/preise"]
 ---
 
 ## Videokonferenz selbst hosten: Was bedeutet das?
