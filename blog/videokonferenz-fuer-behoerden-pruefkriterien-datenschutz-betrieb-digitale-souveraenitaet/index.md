@@ -82,24 +82,3 @@ Für die Markt- und Lösungsorientierung, nicht als Ersatz für diese Prüfung, 
 ## Fazit
 
 Eine tragfähige Videokonferenz für Behörden entsteht aus dem Zusammenspiel von Datenschutz, Informationssicherheit, Betrieb und Steuerungsfähigkeit. Wer Datenflüsse, Verantwortlichkeiten, Nachweise und Wechseloptionen früh konkretisiert, kann Lösungen vergleichbar bewerten und den späteren Betrieb belastbar gestalten. Die verbindliche Bewertung bleibt immer eine Entscheidung der zuständigen Stelle im jeweiligen Einsatzkontext.
-
----
-
-## Revisions- und Prüfprotokoll
-
-- **Beitragsrevision:** `MEEA-86-R1.1`
-- **Stand:** 08.09.2026
-- **Frontmatter-Tag-Regel:** erfüllt – vier Tags; letzter Tag exakt `KI-Generiert`.
-- **Bildartefakt dieser Revision:** `meea-86-v1.0-header-videokonferenz-behoerden.png`, generierte Editorial-Illustration, 16:9, ohne Marken, Schrift oder personenbezogene/sensible Inhalte. Bildreview: Motiv, Lesbarkeit, Kontext und Ausschlusskriterien geprüft; als Ticket-Anhang sichtbar und herunterladbar verifiziert (PNG, 1.532.610 Bytes, SHA-256 0b958f9dfe44f38456d29e5d114c7119cd66e465b068ee3a51d42de8cf33bcb3).
-
-### Linkprüfprotokoll – 08.09.2026
-
-| Linkziel | Zweck im Beitrag | Prüfergebnis | Status / erreichbares Ziel |
-| --- | --- | --- | --- |
-| `https://meetling.de/loesungen/behoerden` | interne, klar abgegrenzte kommerzielle Zielseite | erreichbar | 200, Ziel unverändert |
-| `https://eur-lex.europa.eu/eli/reg/2016/679/oj/deu` | Primärquelle zu DSGVO Art. 32 | erreichbar | 202 Accepted, Ziel unverändert |
-| `https://www.bsi.bund.de/DE/Service-Navi/Presse/Alle-Meldungen-News/Meldungen/Organisationsinterne_TK-Systeme_250304.html` | Primärquelle zum aktuellen BSI-Kompendium KomTK | erreichbar | 200, Ziel unverändert |
-| `https://www.bsi.bund.de/DE/Themen/Oeffentliche-Verwaltung/Mindeststandards/Externe_Cloud-Dienste/Externe_Cloud-Dienste.html` | Primärquelle zum BSI-Mindeststandard für externe Cloud-Dienste | erreichbar | 200, Ziel unverändert |
-| `https://digital.bund.de/2_Architekturvorgaben/2_1_Allgemeine_Vorgaben/AV-09_Souveraenitaet/` | Primärquelle zur AV-09 Digitale Souveränität | erreichbar | 200, Ziel unverändert |
-
-**Freigabestatus:** offen. Diese Revision darf erst nach dokumentierter SEO-/GSC-Freigabe durch SEO Strategy & Analytics und fachlicher CEO-Freigabe unverändert an den Blog Publisher übergeben werden. Änderungen an Text, Links oder Bild erzeugen eine neue Revision und entwerten beide Freigaben.
