@@ -2,6 +2,8 @@
 title: "Videokonferenz für Behörden: Prüfkriterien für Datenschutz, Betrieb und digitale Souveränität"
 description: "Welche Kriterien Behörden bei der Auswahl und Beschaffung einer Videokonferenzlösung prüfen sollten – von Zweck und Schutzbedarf über Betrieb bis Wechselbarkeit."
 date: 2026-09-08
+image: ./meea-86-v1.0-header-videokonferenz-behoerden.png
+imageAlt: "Prüfkriterien für Datenschutz, Betrieb und digitale Souveränität"
 tags:
   - Videokonferenz für Behörden
   - Datenschutz
