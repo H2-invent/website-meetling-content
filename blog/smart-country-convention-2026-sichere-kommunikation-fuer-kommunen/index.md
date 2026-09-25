@@ -35,7 +35,7 @@ Gemeinsam mit secunet stellen wir folgende Komponenten in der SINA Cloud vor:
 | --- | --- |
 | **Nextcloud** | Dateiablage und Austausch gemeinsamer Dokumente |
 | **Element** | Chat und Messenger für die Abstimmung im Team |
-| **Kamailio** | SIP-Server als Baustein der Telefonie-Infrastruktur |
+| **Asterisk** | SIP-Server als Baustein der Telefonie-Infrastruktur |
 | **meetling** | Videokonferenzen für Besprechungen über Standorte hinweg |
 
 Wir von h2 invent bringen dabei meetling als Videokonferenzbaustein ein. Unser gemeinsamer Blick richtet sich auf die gesamte Kommunikationsumgebung: Wer darf auf welche Dienste zugreifen? Wie werden Benutzerkonten und Berechtigungen verwaltet? Und wer übernimmt Betrieb, Wartung und Support?
