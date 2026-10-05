@@ -1,70 +1,68 @@
 ---
-title: "Ende-zu-Ende-Verschlüsselung in Meetling: Mehr Schutz für vertrauliche Gespräche"
-description: "Meetling unterstützt jetzt E2EE. Planen Sie die Verschlüsselung bei der Raumerstellung ein und erfahren Sie, warum Telefoneinwahl, Aufnahme und Transkription dann entfallen."
+title: "Ende-zu-Ende-Verschlüsselung in Meetling: Was Sie vor dem Meeting planen sollten"
+description: "E2EE schützt vertrauliche Audio- und Videogespräche in Meetling. So bereiten Sie den Raum vor und berücksichtigen die Grenzen bei Telefon, Aufnahme und Transkription."
 date: 2026-10-05
-tags: ["e2ee", "sicherheit", "datenschutz", "videokonferenz", "KI-Generiert"]
+tags: ["e2ee", "sicherheit", "videokonferenz", "KI-Generiert"]
+related:
+  - "/sicherheit"
+  - "/blog/sichere-videokonferenz-10-pruefkriterien"
+  - "/blog/sichere-telefoneinwahl-in-der-lobby"
 image: ./header-e2ee-meetling.png
-imageAlt: "Illustration zweier durch Ende-zu-Ende-Verschlüsselung geschützter Videokonferenz-Endgeräte mit Meetling-E2EE-Einstellung und Symbolen für nicht verfügbare Telefoneinwahl, Aufnahme und Transkription"
+imageAlt: "Blau-türkise Illustration mit zwei Videokonferenz-Bildschirmen, Schlosssymbolen, einem Server und einer E2EE-Einstellung; Telefon, Aufnahme und Transkription sind durchgestrichen."
 author: "Emanuel Holzmann"
 ---
 
-## Manche Gespräche brauchen besonderen Schutz
+## Vertrauliche Gespräche beginnen mit der Raumplanung
 
-Eine noch unveröffentlichte Unternehmensstrategie. Eine vertrauliche Personalentscheidung. Ein Gespräch über sensible Entwicklungsprojekte. Wenn solche Themen in einer Videokonferenz besprochen werden, geht es um mehr als eine stabile Verbindung: Es geht um das Vertrauen, dass Gesprächsinhalte nur bei den vorgesehenen Teilnehmern ankommen.
+Wenn Sie eine Besprechung über Personalentscheidungen, Vertragsentwürfe oder unveröffentlichte Entwicklungsprojekte vorbereiten, stellt sich eine konkrete Frage: Wer kann die übertragenen Gesprächsinhalte entschlüsseln? **Meetling unterstützt Ende-zu-Ende-Verschlüsselung, kurz E2EE, für Audio- und Videogespräche.** Sie schützt die Inhalte zwischen den Endgeräten der Teilnehmer vor dem Zugriff des dazwischenliegenden Medienservers.
 
-Mit der neuesten Version unterstützt Meetling die **Ende-zu-Ende-Verschlüsselung, kurz E2EE**. Damit erhalten vertrauliche Audio- und Videogespräche eine zusätzliche Schutzschicht: Die Inhalte werden auf den Endgeräten verschlüsselt und erst auf den Endgeräten der empfangenden Teilnehmer wieder entschlüsselt. Der dazwischenliegende Medienserver transportiert die verschlüsselten Daten, ohne die Gesprächsinhalte entschlüsseln zu können.
+Dafür müssen Sie E2EE **bereits bei der Raumerstellung vorsehen und anschließend über „Bearbeiten“ aktivieren**. Bei aktiver E2EE sind in der hier beschriebenen Meetling-Umsetzung **Telefoneinwahl, Aufnahme und Transkription nicht verfügbar**. Diese Entscheidung gehört deshalb vor die Einladung, damit alle Teilnehmer den vorgesehenen Zugang nutzen können.
 
-Für die Organisation Ihrer Konferenz ist dabei entscheidend: **E2EE muss bereits bei der Raumerstellung eingeplant werden.** Außerdem stehen bei aktiver E2EE bestimmte Funktionen nicht zur Verfügung, weil sie Zugriff auf die Gesprächsinhalte benötigen.
+## Welche Voraussetzung gilt für E2EE in Meetling?
 
-## E2EE bei der Raumerstellung vorbereiten
+Sie benötigen eine Meetling-Installation, in der die E2EE-Funktion verfügbar ist. Der [offizielle Meetling-Changelog](https://meetling.de/resources/changelog) führt E2EE als Neuerung von Release **2.10.0** auf. Daraus lässt sich nicht ableiten, welche Version in einer einzelnen Kundeninstallation eingesetzt wird.
 
-Die Entscheidung für eine vertrauliche Konferenz beginnt beim Anlegen des Raums. Im Dialog zur Raumerstellung finden Sie die Option **„Ende-zu-Ende-Verschlüsselung (E2EE) aktivieren“**.
+Die folgenden Einrichtungsschritte beziehen sich auf den hier gezeigten Meetling-Raum mit LiveKit und den beschriebenen Funktionsstand vom **5. Oktober 2026**. Wenn die E2EE-Option in Ihrer Installation fehlt, klären Sie die Verfügbarkeit mit Ihrer Administration, bevor Sie eine entsprechend geschützte Konferenz planen.
 
-![Meetling-Raumerstellung mit der E2EE-Option am unteren Ende des Dialogs](./e2ee-einstellungen.png)
+## E2EE vorbereiten und aktivieren
 
-Die Einrichtung erfolgt in zwei Schritten:
+Bei der Raumerstellung finden Sie die Option **„Ende-zu-Ende-Verschlüsselung (E2EE) aktivieren“**. Im folgenden Screenshot ist die Stelle hervorgehoben.
 
-1. **Bei der Raumerstellung E2EE vorsehen:** Setzen Sie in den Einstellungen den Haken bei „Ende-zu-Ende-Verschlüsselung (E2EE) aktivieren“ und erstellen Sie den Raum.
-2. **Anschließend über „Bearbeiten“ aktivieren:** Bei einem entsprechend vorbereiteten Raum lässt sich die Ende-zu-Ende-Verschlüsselung danach über „Bearbeiten“ einschalten.
+![Vollständiger Meetling-Dialog zur Raumerstellung mit orange markierter E2EE-Option und unkenntlich gemachtem Namen](./e2ee-einstellungen.png)
 
-Die Vorbereitung bei der Raumerstellung und die anschließende Aktivierung gehören zusammen. Berücksichtigen Sie E2EE deshalb bereits bei der Planung und informieren Sie Ihre Teilnehmer darüber, welche Zugangswege und Funktionen für die Konferenz verfügbar sind.
+1. **Raum vorbereiten:** Setzen Sie bei der Erstellung den Haken bei „Ende-zu-Ende-Verschlüsselung (E2EE) aktivieren“ und erstellen Sie den Raum mit dieser Einstellung.
+2. **Verschlüsselung einschalten:** Öffnen Sie anschließend den vorbereiteten Raum über „Bearbeiten“ und aktivieren Sie dort E2EE.
 
-## Warum mit E2EE keine Telefoneinwahl möglich ist
+Die Einstellung bei der Erstellung schafft die Voraussetzung für die anschließende Aktivierung. Planen Sie diese beiden Schritte zusammen ein.
 
-Die Telefoneinwahl verbindet eine Videokonferenz mit dem Telefonnetz. Dafür muss die Telefonanbindung den Audiostream verarbeiten und in einer für den Telefonteilnehmer nutzbaren Form weitergeben können.
+**Empfehlung zur Kontrolle:** Prüfen Sie vor dem Termin in der Raumkonfiguration, dass E2EE eingeschaltet ist. Führen Sie außerdem eine kurze Testkonferenz mit den vorgesehenen Endgeräten durch und prüfen Sie, ob Audio und Video funktionieren. Ein erfolgreicher Verbindungstest allein bestätigt den Verschlüsselungsstatus nicht.
 
-**Bei aktiver E2EE ist die Telefoneinwahl in Meetling nicht verfügbar.** Die Telefonanbindung kann die verschlüsselten Gesprächsinhalte nicht entschlüsseln und für das Telefonnetz aufbereiten. Ein Telefonteilnehmer kann deshalb nicht über diesen Weg an der Konferenz teilnehmen.
+## Warum Telefon, Aufnahme und Transkription entfallen
 
-Der Medienserver übernimmt weiterhin die Weiterleitung verschlüsselter Daten zwischen den Konferenzteilnehmern. Für die Übertragung ins Telefonnetz wäre jedoch Zugriff auf den Audioinhalt erforderlich – und genau dieser Zugriff ist bei aktiver E2EE ausgeschlossen.
+**Bei aktiver E2EE können die entsprechenden Meetling-Dienste die Gesprächsinhalte nicht entschlüsseln.** Für die Telefoneinwahl müssten sie Audio für das Telefonnetz aufbereiten; für eine Aufnahme müssten sie abspielbare Medien erzeugen; für eine Transkription müssten sie die gesprochenen Worte erkennen.
 
-Wenn jemand auf die Telefoneinwahl angewiesen ist, sollte das vor der Einrichtung des Raums geklärt werden.
-
-## Warum Aufnahme und Transkription ebenfalls entfallen
-
-Eine Aufnahme und eine Transkription brauchen ebenfalls Zugriff auf die Medieninhalte. Ein Aufnahmedienst muss Audio und Video verarbeiten können, um daraus eine abspielbare Aufzeichnung zu erstellen. Eine Transkription muss die gesprochenen Worte aus dem Audiosignal erkennen können.
-
-Deshalb stehen bei aktiver E2EE in Meetling auch **keine Aufnahme und keine Transkription** zur Verfügung. Die entsprechenden Dienste erhalten keinen entschlüsselbaren Medieninhalt, den sie aufzeichnen oder in Text umwandeln könnten.
-
-Für Ihre Konferenzplanung bedeutet das:
-
-| Funktion in Meetling | Bei aktiver E2EE | Grund |
+| Funktion | Bei aktiver E2EE in Meetling | Was der jeweilige Dienst benötigt |
 | --- | --- | --- |
-| Telefoneinwahl | Nicht verfügbar | Die Telefonanbindung kann den verschlüsselten Audiostream nicht für das Telefonnetz aufbereiten. |
-| Aufnahme | Nicht verfügbar | Der Aufnahmedienst kann die verschlüsselten Medieninhalte nicht zu einer abspielbaren Aufzeichnung verarbeiten. |
-| Transkription | Nicht verfügbar | Der Transkriptionsdienst kann die gesprochenen Inhalte im verschlüsselten Audiosignal nicht erkennen. |
+| Telefoneinwahl | Nicht verfügbar | Entschlüsseltes Audio zur Weitergabe an das Telefonnetz |
+| Aufnahme | Nicht verfügbar | Verarbeitbare Audio- und Videoinhalte für eine abspielbare Aufzeichnung |
+| Transkription | Nicht verfügbar | Verarbeitbares Audio für die Umwandlung gesprochener Worte in Text |
 
-## Vertraulichkeit bereits bei der Einladung mitdenken
+Der Medienserver leitet weiterhin verschlüsselte Daten zwischen den Teilnehmern weiter. Die Einschränkung entsteht beim Verarbeiten der Inhalte für diese Zusatzfunktionen. Sie bedeutet nicht, dass E2EE grundsätzlich den Beitritt weiterer berechtigter Videokonferenzteilnehmer verhindert.
 
-Für IT-Verantwortliche und Organisatoren lohnt sich eine klare Entscheidung vor der Einladung: Welche Inhalte sollen besprochen werden? Benötigt jemand einen Zugang per Telefon? Muss das Gespräch aufgezeichnet oder transkribiert werden?
+Diese Funktionsgrenzen gelten für die hier beschriebene Meetling-Umsetzung. Sie sind keine pauschale Aussage über alle Anwendungen, die E2EE verwenden.
 
-Bei einer vertraulichen Besprechung ohne diese Zusatzfunktionen können Sie E2EE gezielt einplanen. Sind Telefoneinwahl, Aufnahme oder Transkription erforderlich, müssen Sie diese Anforderungen mit dem vorgesehenen Schutz der Gesprächsinhalte abstimmen.
+Falls Ihre Besprechung einen Telefonzugang benötigt, hilft der Beitrag zur [Telefoneinwahl mit Lobby-Integration](https://meetling.de/blog/sichere-telefoneinwahl-in-der-lobby) bei der Planung des Einlasses. Diese Telefonfunktion lässt sich in der beschriebenen Umsetzung jedoch nicht gleichzeitig mit aktiver E2EE nutzen.
 
-E2EE schützt die übertragenen Medieninhalte zwischen den Endgeräten. Der Schutz der Endgeräte und die Auswahl der berechtigten Teilnehmer bleiben dabei wichtig. Auch Verbindungs- und Steuerungsinformationen sind von den verschlüsselten Gesprächsinhalten zu unterscheiden; E2EE bedeutet keine vollständige Unsichtbarkeit einer Konferenz.
+## Was E2EE schützt – und was Sie weiterhin organisieren müssen
 
-Technischen Hintergrund zur Medienverschlüsselung und ihrer Abgrenzung zu Steuerungsinformationen bietet die [offizielle LiveKit-Dokumentation zu E2EE](https://docs.livekit.io/transport/encryption/). Die hier beschriebenen Einrichtungsschritte und Funktionseinschränkungen beziehen sich auf die aktuelle Meetling-Umsetzung.
+Bei Ende-zu-Ende-Verschlüsselung werden Medieninhalte auf dem sendenden Endgerät verschlüsselt und auf den empfangenden Endgeräten entschlüsselt. Die [offizielle LiveKit-Dokumentation](https://docs.livekit.io/transport/encryption/) erläutert diesen Schutz und grenzt ihn von der Transportverschlüsselung ab. Sie weist auch darauf hin, dass Steuerungsnachrichten und API-Aufrufe, also technische Anfragen zur Verbindung und Verwaltung, nicht Ende-zu-Ende-verschlüsselt sind.
 
-## Gemeinsam den passenden Rahmen schaffen
+Für Ihren Betrieb bleiben die Auswahl der berechtigten Teilnehmer und der Schutz ihrer Endgeräte wichtig. E2EE verhindert auch nicht, dass ein berechtigter Teilnehmer empfangene Inhalte außerhalb der Meetling-Aufnahmefunktion selbst festhält.
 
-Vertrauliche Zusammenarbeit braucht Entscheidungen, die zum Gespräch passen. Mit E2EE bietet Meetling eine zusätzliche Möglichkeit, sensible Audio- und Videoinhalte zu schützen. Wer die Verschlüsselung und die benötigten Funktionen frühzeitig berücksichtigt, schafft dafür einen klaren Rahmen – bevor die erste Person den Raum betritt.
+Einen Überblick über die Schutzfunktionen bietet die Seite [Sicherheit und Datenschutz bei Meetling](https://meetling.de/sicherheit). Für die organisatorische Einordnung können Sie die [zehn Prüfkriterien für sichere Videokonferenzen](https://meetling.de/blog/sichere-videokonferenz-10-pruefkriterien) heranziehen.
 
-Sie möchten E2EE in Ihrer Organisation einsetzen und klären, wie sich vertrauliche Konferenzen in Ihre bestehenden Abläufe integrieren lassen? **Sprechen Sie mit uns. Wir beraten Sie zur Nutzung von Meetling und zur passenden Konfiguration für Ihre Besprechungen.**
+## Vor der Einladung die benötigten Funktionen klären
+
+Für IT-Verantwortliche und Organisatoren empfiehlt sich eine kurze Abstimmung: Soll die Konferenz mit E2EE stattfinden? Benötigt jemand einen Telefonzugang? Ist eine Aufnahme oder Transkription vorgesehen? Halten Sie die Entscheidung fest und informieren Sie die Teilnehmer über den vorgesehenen Zugang.
+
+Wenn Sie E2EE für vertrauliche Besprechungen einführen möchten, besprechen Sie mit uns Ihre eingesetzte Meetling-Version, die benötigten Zugangswege und die Anforderungen an die Dokumentation. Über das [Kontaktformular auf meetling.de](https://meetling.de/) können Sie diese Fragen direkt an uns richten.
