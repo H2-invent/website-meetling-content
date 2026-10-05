@@ -7,7 +7,7 @@ related:
   - "/tutorials/lobby-aktivieren"
   - "/tutorials/lobby-moderator-ernennen"
   - "/blog/e2ee-ende-zu-ende-verschluesselung-in-videkonferenzen"
-image: ./header.png
+image: ./header-telefoneinwahl-lobby.png
 imageAlt: "Isometrische Illustration eines Telefonhörers mit wartender Person und Uhr links, einer Zugangsschranke mit Schloss und Moderator am Freigabepult in der Mitte sowie eines Videokonferenzbildschirms rechts."
 author: "Emanuel Holzmann"
 ---
