@@ -1,5 +1,5 @@
 ---
-title: "Teams und Outlook gestört: Warum souveräne Kommunikation wichtig ist"
+title: "Sichere Alternative zu Microsoft Teams: Meetling"
 description: "Was zum Microsoft-365-Ausfall am 12. und 13. November 2026 bekannt ist und wie Unternehmen mit Meetling ihre Kommunikation unabhängiger aufstellen."
 date: 2026-11-13
 tags: ["Microsoft-365-Ausfall", "Videokonferenz", "Digitale Souveränität", "KI-Generiert"]
