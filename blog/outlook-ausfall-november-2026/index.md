@@ -1,32 +1,34 @@
 ---
 title: "Sichere Alternative zu Microsoft Teams: Meetling"
-description: "Was zum Microsoft-365-Ausfall am 12. und 13. November 2026 bekannt ist und wie Unternehmen mit Meetling ihre Kommunikation unabhängiger aufstellen."
+description: "Der Microsoft-365-Ausfall zeigt zentrale Abhängigkeiten. Wie Unternehmen Teams durch Meetling ersetzen und Videokonferenzen digital souverän betreiben."
 date: 2026-11-13
 tags: ["Microsoft-365-Ausfall", "Videokonferenz", "Digitale Souveränität", "KI-Generiert"]
 related:
   - "/blog/open-source-videokonferenz-digitale-souveraenitaet"
-  - "/blog/videokonferenz-selbst-hosten"
-  - "/blog/office_365_stoerung_microsoft"
+  - "/funktionen"
+  - "/sicherheit"
 image: ./header.png
 imageAlt: "Skizzenzeichnung eines Schreibtischs mit gestörtem Mailbildschirm, einer laufenden Videokonferenz auf einem Laptop und einem kleinen Server."
 author: "Emanuel Holzmann"
 ---
 
-## Meetling: sichere Alternative zu Teams für digital souveräne Videokonferenzen
+## Mit Meetling Microsoft Teams im Arbeitsalltag ersetzen
 
-[Meetling](https://meetling.de/) ist eine sichere Alternative zu Microsoft Teams für Unternehmen und Verwaltungen, die ihre Videokonferenzen digital souverän betreiben möchten. Die Open-Source-Lösung bietet [Verschlüsselung, Berechtigungskontrollen und eine Lobby für den geregelten Zutritt](https://meetling.de/sicherheit). Meetling kann im eigenen Rechenzentrum, in einer hybriden Umgebung oder als gehosteter Dienst betrieben werden. Organisationen können damit passend zu ihrem Schutzbedarf festlegen, wo ihre Kommunikation verarbeitet wird und wer den Betrieb verantwortet.
+[Meetling](https://meetling.de/) kann Microsoft Teams als zentrale Plattform für Videokonferenzen und digitale Zusammenarbeit vollständig ersetzen. Unternehmen und Verwaltungen können ihre Besprechungen in Meetling planen, durchführen und gemeinsam an Inhalten arbeiten. Die Open-Source-Lösung bietet dafür [Verschlüsselung, Berechtigungskontrollen und eine Lobby für den geregelten Zutritt](https://meetling.de/sicherheit).
 
-[Digitale Souveränität](https://meetling.de/blog/open-source-videokonferenz-digitale-souveraenitaet) bedeutet bei Meetling: einsehbarer Quellcode, Wahlfreiheit beim Betrieb und gestaltbare Datenwege. Die Konferenzplattform lässt sich getrennt von Microsoft 365 betreiben. Wenn auch Anmeldung und Konferenzzugänge unabhängig erreichbar sind, kann Meetling bei einer Microsoft-365-Störung als zusätzlicher Kommunikationsweg dienen.
+Meetling lässt sich im eigenen Rechenzentrum, in einer hybriden Umgebung oder als gehosteter Dienst betreiben. Damit können Organisationen selbst festlegen, wer ihre Kommunikationsplattform betreibt und wo Daten verarbeitet werden. Der einsehbare Quellcode und die Wahl des Betriebsmodells unterstützen [digitale Souveränität](https://meetling.de/blog/open-source-videokonferenz-digitale-souveraenitaet): Die eigene IT kann die Plattform prüfen, gestalten und in ihre Infrastruktur einbinden.
+
+Der Microsoft-365-Ausfall am 12. und 13. November 2026 macht diese Entscheidung greifbar. Wer seine Kommunikation dauerhaft unabhängiger aufstellen möchte, kann den Vorfall zum Anlass nehmen, Teams durch Meetling abzulösen.
 
 ## Wenn mit dem Postfach auch die Terminplanung hakt
 
-Eine Besprechung lässt sich noch irgendwie verschieben. Schwieriger wird es, wenn gleichzeitig der Kalender nicht lädt und die Nachricht an die Beteiligten nicht ankommt. Dann fehlt ausgerechnet der Kommunikationsweg, über den man den Ausfall organisieren müsste.
+Eine Besprechung lässt sich noch irgendwie verschieben. Schwieriger wird es, wenn gleichzeitig der Kalender nicht lädt und die Nachricht an die Beteiligten nicht ankommt. Dann geraten mehrere Arbeitsabläufe ins Stocken, obwohl die Ursache außerhalb der eigenen Organisation liegt.
 
 Seit Donnerstag, dem 12. November 2026, gibt es bei Microsoft 365 weitreichende Störungen. Betroffen sind Outlook, Teile von Teams, Copilot und weitere Dienste. Zunächst meldete Microsoft Probleme beim Zugriff auf Exchange-Online-Postfächer in Amerika, später auch mögliche Auswirkungen auf Nutzer in anderen Regionen. [Über den Verlauf berichtet unter anderem BleepingComputer.](https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/)
 
-**Stand: 13. November 2026, 10:50 Uhr MEZ.** Microsoft meldet erste Stabilisierung, aber noch keine normale Kapazität. Die Wiederherstellung läuft. Auch die [aus Microsofts Statusschnittstelle gespeiste Übersicht des Earlham College](https://status.earlham.edu/ms/) führt die beiden zentralen Vorfälle weiterhin als Dienstbeeinträchtigung.
+**Stand der Störungsinformationen: 13. November 2026, 10:50 Uhr MEZ.** Microsoft meldet erste Stabilisierung, aber noch keine normale Kapazität. Die Wiederherstellung läuft. Auch die [aus Microsofts Statusschnittstelle gespeiste Übersicht des Earlham College](https://status.earlham.edu/ms/) führt die beiden zentralen Vorfälle weiterhin als Dienstbeeinträchtigung.
 
-Für Unternehmen und Verwaltungen stellt sich damit eine sehr praktische Frage: Wie stimmen wir uns ab, wenn mehrere unserer wichtigsten Werkzeuge gleichzeitig Schwierigkeiten machen?
+Für Unternehmen und Verwaltungen geht es damit auch um die nächste Beschaffungsentscheidung: Welche Kommunikationsplattform wollen wir dauerhaft nutzen, und wie viel Kontrolle behalten wir über ihren Betrieb?
 
 ## Was bei Outlook, Teams und Copilot betroffen ist
 
@@ -65,25 +67,46 @@ Die Abhängigkeiten reichen über Microsofts eigene Anwendungen hinaus. [OpenAI 
 
 Das belegt keinen vollständigen Ausfall von ChatGPT oder Claude. Es zeigt, dass ein zusätzliches Werkzeug an derselben gestörten Datenquelle hängen kann. Ein anderer Anbietername allein schafft noch keinen unabhängigen Arbeitsweg.
 
-## Ein Ausweichweg muss schon vor der Störung stehen
+## Was Meetling für die tägliche Zusammenarbeit übernimmt
 
-Während einer Großstörung lässt sich eine zweite Kommunikationsumgebung nur schwer in Ruhe einführen. Konten, Zuständigkeiten und Zugänge sollten vorher geklärt sein. Für die Vorbereitung sind vor allem diese Punkte sinnvoll:
+Wer Teams ablöst, braucht eine Plattform, die sich im normalen Arbeitstag bewährt: bei internen Abstimmungen, Gesprächen mit Kunden, Besprechungen mit externen Partnern und der gemeinsamen Arbeit an einem Thema. Die [Meetling-Funktionsübersicht](https://meetling.de/funktionen) zeigt die dafür verfügbaren Werkzeuge:
 
-- **Den Zugang außerhalb des Hauptsystems bereithalten.** Konferenzadresse, Ansprechpartner und eine kurze Anleitung sollten auch ohne das geschäftliche Postfach erreichbar sein.
-- **Die Anmeldung mitprüfen.** Eine andere Konferenzplattform hilft nur begrenzt, wenn ihr einziger Anmeldeweg wiederum von einem ausgefallenen Dienst abhängt. Eine eigene Störung des Identitätsdienstes wäre ein zusätzliches Szenario, das geprüft werden sollte.
-- **Die Einladung mitdenken.** Wenn E-Mail und Kalender nicht zur Verfügung stehen, braucht es einen vorher vereinbarten, freigegebenen Weg, um Beteiligte zusammenzubringen.
-- **Den Ablauf tatsächlich ausprobieren.** Ein Test ohne Zugriff auf Microsoft 365 zeigt, ob ein Team einen Raum erreichen und die Besprechung durchführen kann. Auch externe Teilnehmer gehören in diesen Test.
+| Aufgabe im Arbeitsalltag | Umsetzung mit Meetling |
+| --- | --- |
+| Besprechungen organisieren | Terminplanung, Terminumfragen und Teilnehmerlisten |
+| Online-Meetings durchführen | Videokonferenzen im Browser, Bildschirmfreigabe und Moderationswerkzeuge |
+| Gemeinsam Inhalte erarbeiten | Whiteboards und Notizen während der Konferenz |
+| Nachrichten im Meeting austauschen | Chat mit allen oder einzelnen Konferenzteilnehmern |
+| Zugänge und Zuständigkeiten regeln | Berechtigungen, Lobby sowie Vertreter- und Vorzimmermanagement |
 
-Im aktuellen Vorfall nennt Microsoft die öffentliche [Dienststatusseite](https://status.cloud.microsoft/) als Informationsweg, falls das Verwaltungsportal nicht erreichbar ist. Für die eigene Organisation lohnt sich derselbe Gedanke: Auch die Information über eine Störung braucht einen erreichbaren Ort.
+Für die Verbindung von Teamchat und Videokonferenz gibt es die [Matrix-Integration](https://meetling.de/funktionen/teamwork-tools/matrix-chat). Damit lassen sich Konferenzen aus einem Matrix-Raum heraus erstellen und Teilnehmer hinzufügen. Matrix übernimmt dabei den dauerhaften Teamchat, Meetling die Konferenz. Welche Funktionen und Integrationen im gewählten Angebot enthalten sind, gehört in die Planung des Umstiegs.
 
-## Mit Meetling mehr Kontrolle über die eigene Kommunikation behalten
+## Die Kommunikationsplattform selbst bestimmen
 
-Digitale Souveränität wird oft an großen Strategien festgemacht. An einem solchen Morgen geht es zunächst um etwas Kleineres: Kann die eigene IT noch handeln? Kann sie einen anderen Kommunikationsweg bereitstellen? Weiß sie, welche Abhängigkeiten dabei übrig bleiben?
+Mit der Ablösung von Teams lässt sich auch die Verantwortung für die eigene Kommunikation neu ordnen. Meetling bietet dafür unterschiedliche [Sicherheits- und Betriebsmodelle](https://meetling.de/sicherheit):
 
-[Meetling](https://meetling.de/) bietet dafür eine Grundlage: Die Videokonferenzlösung basiert auf Open Source und kann je nach Anforderung als gehosteter Dienst, in einer hybriden Umgebung oder im eigenen Rechenzentrum betrieben werden. Unternehmen und Verwaltungen können damit selbst entscheiden, wer ihre Konferenzinfrastruktur betreibt und wie sie in die übrige IT eingebunden wird.
+- **Gehosteter Dienst:** Meetling und die Videokonferenz werden vom Anbieter betrieben.
+- **Hybrider Betrieb:** Die Konferenzverwaltung wird beim Hosting-Partner betrieben, die Videostreams werden im Rechenzentrum des Kunden verarbeitet.
+- **Betrieb im eigenen Rechenzentrum:** Meetling und die Medienverarbeitung liegen in der eigenen Infrastruktur; Betreuung und Zuständigkeiten werden entsprechend vereinbart.
 
-Eine vom Microsoft-365-Verbund getrennt betriebene Meetling-Umgebung kann einen zusätzlichen Kommunikationsweg schaffen. Dafür müssen auch Anmeldung, Erreichbarkeit und die Verteilung der Konferenzzugänge passend geplant sein. Wer Meetling bequem über das [Outlook-Add-in](https://meetling.de/blog/release-version-1.6) nutzt, sollte den Zugang zur Konferenz deshalb auch ohne Outlook im Ausweichablauf vorsehen.
+So kann eine Organisation das Betriebsmodell nach ihrem Schutzbedarf und ihren vorhandenen IT-Ressourcen wählen. Sie kann festlegen, wer administriert, wo Daten verarbeitet werden und wie die Plattform gewartet wird.
 
-Auch eine eigene Plattform braucht Wartung, Überwachung und Menschen, die im Fehlerfall handeln können. Was zum Betrieb gehört, beschreibt unser Beitrag [Videokonferenz selbst hosten](https://meetling.de/blog/videokonferenz-selbst-hosten). Offener Quellcode und die Wahl des Betriebsmodells geben der eigenen Organisation mehr Möglichkeiten, diese Verantwortung zu gestalten.
+Auch beim Wechsel zu Meetling gehören die verbleibenden Abhängigkeiten auf den Tisch: Benutzerverwaltung, Kalender, Netzwerk und angebundene Anwendungen müssen zum gewünschten Betriebsmodell passen. Wenn etwa die bisherige Anmeldung über einen externen Dienst läuft, ist bewusst zu entscheiden, ob diese Anbindung weiter genutzt oder durch eine andere Benutzerverwaltung ersetzt wird.
 
-Der aktuelle Ausfall ist deshalb ein guter Anlass für einen konkreten Test: Lassen sich Ihre wichtigsten Besprechungen auch ohne Zugriff auf Microsoft 365 durchführen? Wenn Sie dafür Meetling einsetzen möchten, [besprechen Sie mit uns die passende Betriebsform](https://meetling.de/). Dabei sollten die Abhängigkeiten und der Zugang im Störungsfall von Anfang an auf den Tisch. Genau dort wird digitale Souveränität im Alltag wirksam.
+## Von Teams zu Meetling wechseln
+
+Der Umstieg beginnt bei den bisherigen Arbeitsabläufen. Für die Planung bietet sich folgende Reihenfolge an:
+
+1. **Die heutige Nutzung aufnehmen.** Welche Besprechungen, Chats, Konferenzräume und Integrationen werden tatsächlich gebraucht? Welche Anforderungen haben interne und externe Teilnehmer?
+2. **Den künftigen Betrieb festlegen.** Hosting, Benutzerverwaltung, Berechtigungen, Support und Wartung müssen klare Zuständigkeiten bekommen.
+3. **Die Abläufe in Meetling einrichten und prüfen.** Dazu gehören Termine, Einladungen, Gastzugänge und die benötigten Integrationen. Eine ausgewählte Nutzergruppe sollte die typischen Arbeitsschritte im Alltag erproben.
+4. **Die Nutzung auf Meetling umstellen.** Mitarbeiter und externe Partner erhalten die neuen Zugänge und eine kurze Einführung. Bestehende Serientermine werden neu geplant oder entsprechend angepasst. Anschließend wird die bisherige Teams-Nutzung für die abgelösten Abläufe beendet.
+
+Offener Quellcode und ein eigenes Betriebsmodell schaffen Gestaltungsspielraum. Ein verlässlicher Betrieb braucht außerdem Updates, Überwachung und festgelegte Ansprechpartner. Mehr dazu erläutert unser Beitrag über [Open Source und digitale Souveränität](https://meetling.de/blog/open-source-videokonferenz-digitale-souveraenitaet).
+
+## Teams ablösen und die Kommunikation mit Meetling gestalten
+
+Der Microsoft-Ausfall ist ein Anlass, die bisherige Plattformwahl zu überprüfen. Für Unternehmen und Verwaltungen kann daraus eine dauerhafte Veränderung entstehen: Besprechungen und digitale Zusammenarbeit werden auf Meetling umgestellt, der Betrieb wird nach den eigenen Anforderungen organisiert.
+
+Wenn Sie Teams durch Meetling ersetzen möchten, [besprechen Sie mit uns Ihre bisherigen Arbeitsabläufe und das passende Betriebsmodell](https://meetling.de/). Daraus wird ein konkreter Umstiegsplan für Ihre Organisation. Digitale Souveränität zeigt sich dann jeden Tag darin, wie Sie Ihre Kommunikation selbst gestalten und betreiben können.
+
