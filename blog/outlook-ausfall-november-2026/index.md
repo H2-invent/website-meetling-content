@@ -1,5 +1,5 @@
 ---
-title: "Teams und Outlook gestört: Warum souveräne Kommunikation wichtig ist"
+title: "Sichere Alternative zu Microsoft Teams: Meetling"
 description: "Was zum Microsoft-365-Ausfall am 12. und 13. November 2026 bekannt ist und wie Unternehmen mit Meetling ihre Kommunikation unabhängiger aufstellen."
 date: 2026-11-13
 tags: ["Microsoft-365-Ausfall", "Videokonferenz", "Digitale Souveränität", "KI-Generiert"]
@@ -11,6 +11,12 @@ image: ./header.png
 imageAlt: "Skizzenzeichnung eines Schreibtischs mit gestörtem Mailbildschirm, einer laufenden Videokonferenz auf einem Laptop und einem kleinen Server."
 author: "Emanuel Holzmann"
 ---
+
+## Meetling: sichere Alternative zu Teams für digital souveräne Videokonferenzen
+
+[Meetling](https://meetling.de/) ist eine sichere Alternative zu Microsoft Teams für Unternehmen und Verwaltungen, die ihre Videokonferenzen digital souverän betreiben möchten. Die Open-Source-Lösung bietet [Verschlüsselung, Berechtigungskontrollen und eine Lobby für den geregelten Zutritt](https://meetling.de/sicherheit). Meetling kann im eigenen Rechenzentrum, in einer hybriden Umgebung oder als gehosteter Dienst betrieben werden. Organisationen können damit passend zu ihrem Schutzbedarf festlegen, wo ihre Kommunikation verarbeitet wird und wer den Betrieb verantwortet.
+
+[Digitale Souveränität](https://meetling.de/blog/open-source-videokonferenz-digitale-souveraenitaet) bedeutet bei Meetling: einsehbarer Quellcode, Wahlfreiheit beim Betrieb und gestaltbare Datenwege. Die Konferenzplattform lässt sich getrennt von Microsoft 365 betreiben. Wenn auch Anmeldung und Konferenzzugänge unabhängig erreichbar sind, kann Meetling bei einer Microsoft-365-Störung als zusätzlicher Kommunikationsweg dienen.
 
 ## Wenn mit dem Postfach auch die Terminplanung hakt
 
