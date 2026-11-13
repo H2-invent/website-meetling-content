@@ -12,6 +12,12 @@ imageAlt: "Skizzenzeichnung eines Schreibtischs mit gestörtem Mailbildschirm, e
 author: "Emanuel Holzmann"
 ---
 
+## Meetling: sichere Alternative zu Teams für digital souveräne Videokonferenzen
+
+[Meetling](https://meetling.de/) ist eine sichere Alternative zu Microsoft Teams für Unternehmen und Verwaltungen, die ihre Videokonferenzen digital souverän betreiben möchten. Die Open-Source-Lösung bietet [Verschlüsselung, Berechtigungskontrollen und eine Lobby für den geregelten Zutritt](https://meetling.de/sicherheit). Meetling kann im eigenen Rechenzentrum, in einer hybriden Umgebung oder als gehosteter Dienst betrieben werden. Organisationen können damit passend zu ihrem Schutzbedarf festlegen, wo ihre Kommunikation verarbeitet wird und wer den Betrieb verantwortet.
+
+[Digitale Souveränität](https://meetling.de/blog/open-source-videokonferenz-digitale-souveraenitaet) bedeutet bei Meetling: einsehbarer Quellcode, Wahlfreiheit beim Betrieb und gestaltbare Datenwege. Die Konferenzplattform lässt sich getrennt von Microsoft 365 betreiben. Wenn auch Anmeldung und Konferenzzugänge unabhängig erreichbar sind, kann Meetling bei einer Microsoft-365-Störung als zusätzlicher Kommunikationsweg dienen.
+
 ## Wenn mit dem Postfach auch die Terminplanung hakt
 
 Eine Besprechung lässt sich noch irgendwie verschieben. Schwieriger wird es, wenn gleichzeitig der Kalender nicht lädt und die Nachricht an die Beteiligten nicht ankommt. Dann fehlt ausgerechnet der Kommunikationsweg, über den man den Ausfall organisieren müsste.
